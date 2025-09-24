@@ -5,4 +5,4 @@ permalink: /about/
 ---
 Site qui rassemble différentes informations pour les groupes d'action de La France Insoumise des Yvelines.
 
-{% include_relative ../_drafts/ga-sqy.md %}
+{% include ga-sqy.md %}
