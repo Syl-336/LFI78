@@ -27,6 +27,19 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [La sobriété : un impératif écologique et solidaire](https://www.greenpeace.fr/sobriete-ecologique-solidaire/)  
 [Quels nouveaux récits pour le XXIe siècle turbulent ?](https://blogs.mediapart.fr/carta-academica/blog/160924/quels-nouveaux-recits-pour-le-xxie-siecle-turbulent)  
 
+### Ressources
+
+[« Possible déclin de l’approvisionnement en pétrole de l’UE d’ici 2030 »](https://theshiftproject.org/article/ue-declin-approvisionnements-petrole-2030-etude/)  
+[Pétrole: 47 ans de réserves](https://www.worldometers.info/oil/)  
+[ADEME: Les métaux :  des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/)  
+[Cuivre: entre 10 et 40 ans selon l'utilisation](https://en.wikipedia.org/wiki/Copper_extraction#Copper_supply)  
+[ADEME: Le sable, une ressource qui nous file entre les doigts ?](https://www.qqf.fr/infographie/le-sable-une-ressource-qui-nous-file-entre-les-doigts/)  
+[Sable de construction](https://theconversation.com/le-sable-une-ressource-essentielle-en-voie-de-disparition-122094)  
+[extrait d'un interview d'Emmanuel Hache.](https://www.youtube.com/watch?v=ZeZa9SUyeMo)  
+[CESE: "La dépendance aux métaux stratégiques quelles solutions pour l'économie ?" ](https://www.lecese.fr/content/le-cese-adopte-son-avis-la-dependance-aux-metaux-strategiques-quelles-solutions-pour-leconomie-0)  
+
+> "Côté offre, selon l’US Bureau of Mines (USBM) et certains cabinets de consultants privés, il resterait dans le monde, en l’état actuel des réserves, 18 ans de chrome, 20 ans d’étain, 30 ans de nickel, 33 ans de manganèse, 38 ans de cuivre, 60 ans de cobalt, ..."
+
 ## Interviews
 [Arthur Keller sur Metabolism of Cities: "Le problème c'est penser que ça ne peut pas être pire" (1h44)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [conférence (1h38)](https://www.youtube.com/watch?v=8Y-giuRhsXE)  
 [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
@@ -114,17 +127,4 @@ Comparatifs des programmes:
 [BonPote](https://bonpote.com/infographies/)  
 [BonPote: Les scientifiques à suivre](https://bonpote.com/les-scientifiques-a-suivre-sur-twitter/)  
 [BonPote: parcours thématique](https://bonpote.com/parcours/)  
-[BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)  
-
-# Ressources
-
-[« Possible déclin de l’approvisionnement en pétrole de l’UE d’ici 2030 »](https://theshiftproject.org/article/ue-declin-approvisionnements-petrole-2030-etude/)  
-[Pétrole: 47 ans de réserves](https://www.worldometers.info/oil/)  
-[ADEME: Les métaux :  des ressources qui pourraient manquer ?](https://multimedia.ademe.fr/infographies/infographie-terres-rares-ademe/)  
-[Cuivre: entre 10 et 40 ans selon l'utilisation](https://en.wikipedia.org/wiki/Copper_extraction#Copper_supply)  
-[ADEME: Le sable, une ressource qui nous file entre les doigts ?](https://www.qqf.fr/infographie/le-sable-une-ressource-qui-nous-file-entre-les-doigts/)  
-[Sable de construction](https://theconversation.com/le-sable-une-ressource-essentielle-en-voie-de-disparition-122094)  
-[extrait d'un interview d'Emmanuel Hache.](https://www.youtube.com/watch?v=ZeZa9SUyeMo)  
-[CESE: "La dépendance aux métaux stratégiques quelles solutions pour l'économie ?" ](https://www.lecese.fr/content/le-cese-adopte-son-avis-la-dependance-aux-metaux-strategiques-quelles-solutions-pour-leconomie-0)  
-
-> "Côté offre, selon l’US Bureau of Mines (USBM) et certains cabinets de consultants privés, il resterait dans le monde, en l’état actuel des réserves, 18 ans de chrome, 20 ans d’étain, 30 ans de nickel, 33 ans de manganèse, 38 ans de cuivre, 60 ans de cobalt, ..."
+[BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)
