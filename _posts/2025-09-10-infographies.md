@@ -8,7 +8,7 @@ excerpt: Ensemble d'infographies
 
 [![]({{ site.baseurl }}/images/infographies/politique/1_couverture_orientations_snbc_800.jpg)](https://presidentielle2022.theshifters.org/decryptage/)
 ![]({{ site.baseurl }}/images/infographies/politique/prog_2022.jpg)
-![]({{ site.baseurl }}/images/infographies/politique/V4-Infographie-Legislatives.png)
+![]({{ site.baseurl }}/images/infographies/politique/V4-Infographie-Legislatives.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/censure.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/vote_groupes.png)
 [![Vote de la loi Duplomb]({{ site.baseurl }}/images/infographies/politique/duplomb.jpg)]((https://www.generations-futures.fr/actualites/pour-contre-duplomb/))
