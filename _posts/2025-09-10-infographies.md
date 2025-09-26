@@ -8,7 +8,7 @@ excerpt: Ensemble d'infographies
 
 ![]({{ site.baseurl }}/images/infographies/politique/prog_2022.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/V4-Infographie-Legislatives.png)
-![]({{ site.baseurl }}/images/infographies/politique/censure.png)
+![]({{ site.baseurl }}/images/infographies/politique/censure.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/vote_groupes.png)
 [![Vote de la loi Duplomb]({{ site.baseurl }}/images/infographies/politique/duplomb.jpg)]((https://www.generations-futures.fr/actualites/pour-contre-duplomb/))
 ![]({{ site.baseurl }}/images/infographies/politique/votes_femmes.jpg)
@@ -19,17 +19,16 @@ excerpt: Ensemble d'infographies
 ----
 # Economie
 
-![]({{ site.baseurl }}/images/infographies/economie/evo_500_fortunes.jpg)
-![]({{ site.baseurl }}/images/infographies/economie/patrimoine_500_fortunes.jpg)
-![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
-![]({{ site.baseurl }}/images/infographies/economie/fraude.jpg)
-
 [Les inégalités de revenus en France 2024](https://elucid.media/analyse-graphique/inegalites-revenus-france/inegalites-macron-novembre-2024-exploser-revenus-ultra-riches)
 
 ![]({{ site.baseurl }}/images/infographies/economie/revenu_mensuel.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/revenu_mensuel_1percent.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/croissance_annuelle.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/impot.jpg)
+![]({{ site.baseurl }}/images/infographies/economie/evo_500_fortunes.jpg)
+![]({{ site.baseurl }}/images/infographies/economie/patrimoine_500_fortunes.jpg)
+![]({{ site.baseurl }}/images/infographies/economie/fraude.jpg)
+![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
 
 ----
 # Ecologie
@@ -37,7 +36,7 @@ excerpt: Ensemble d'infographies
 [Infographies de BonPote](https://bonpote.com/infographies/)
 
 ![]({{ site.baseurl }}/images/infographies/ecologie/climat.webp)
-![]({{ site.baseurl }}/images/infographies/ecologie/meadows.jpeg)
+[![]({{ site.baseurl }}/images/infographies/ecologie/meadows.jpeg)](https://www.resilience.org/stories/2025-05-20/limits-to-growth-was-right-about-collapse/)
 [![]({{ site.baseurl }}/images/infographies/ecologie/9-limites-planetaires-Image-Bon-Pote-851x1024.png)](https://bonpote.com/la-7e-limite-planetaire-est-officiellement-depassee-lacidification-des-oceans/)
 ![]({{ site.baseurl }}/images/infographies/ecologie/2_degrees.jpeg)
 ![]({{ site.baseurl }}/images/infographies/ecologie/Vivre-a-2-tones-1.webp)
