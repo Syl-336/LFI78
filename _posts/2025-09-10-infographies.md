@@ -16,6 +16,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/attac_vs_Macron.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/zucman.jpg)
 
+----
 # Economie
 
 ![]({{ site.baseurl }}/images/infographies/economie/evo_500_fortunes.jpg)
@@ -30,6 +31,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/economie/croissance_annuelle.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/impot.jpg)
 
+----
 # Ecologie
 
 [Infographies de BonPote](https://bonpote.com/infographies/)
