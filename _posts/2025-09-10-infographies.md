@@ -4,7 +4,7 @@ title:  Infographies
 categories: [politique, economie, ecologie]
 excerpt: Ensemble d'infographies
 ---
-# Politique
+## Politique
 
 [![]({{ site.baseurl }}/images/infographies/politique/1_couverture_orientations_snbc_800.jpg)](https://presidentielle2022.theshifters.org/decryptage/)
 ![]({{ site.baseurl }}/images/infographies/politique/prog_2022.jpg)
@@ -18,7 +18,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/zucman.jpg)
 
 ----
-# Economie
+## Economie
 
 [Les inégalités de revenus en France 2024](https://elucid.media/analyse-graphique/inegalites-revenus-france/inegalites-macron-novembre-2024-exploser-revenus-ultra-riches)
 
@@ -32,7 +32,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
 
 ----
-# Ecologie
+## Ecologie
 
 [Infographies de BonPote](https://bonpote.com/infographies/)
 

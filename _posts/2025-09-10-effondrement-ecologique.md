@@ -51,7 +51,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Un pays qui se tient sage (1h29)](https://peertube.stream/w/rh2cb3PiqnQLZgFnDFhjtu)  
 [La Stratégie du Choc (1h16)](https://peertube.stream/w/grhJ9SDdHVtGhKGaSFYJHG)  
 
-# 2023
+## 2023
 [Rapport du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/rapport-grand-public-2023/)  
 [Les émissions de gaz en baisse de 2% entre 2019-2030, alors que l’objectif est de 43 %.](https://reporterre.net/Baisse-des-gaz-a-effet-de-serre-nous-sommes-hors-piste-selon-l-ONU)  
 [BonPote: 6ème limite planétaire dépassée.](https://bonpote.com/la-6eme-limite-planetaire-est-officiellement-depassee/)  
@@ -59,7 +59,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Blast: COP28](https://video.blast-info.fr/w/9yX1h5DqG2rJ1YJZHahK8u)  
 [Mediapart: l'alerte des climatologues](https://www.youtube.com/watch?v=l5yr_ofS444)  
 
-# 2024
+## 2024
 [Rapport du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/rapport-annuel-2024-tenir-le-cap-de-la-decarbonation-proteger-la-population/)  
 [Il nous reste 6 ans pour agir](https://www.futura-sciences.com/planete/actualites/climatologie-bonne-nouvelle-nous-avons-encore-6-ans-eviter-franchir-points-non-retour-10644/)  
 [12 mois consécutifs au dessus de 1.5°C](https://www.arretsurimages.net/chroniques/les-enerve-es/climat-1-5c-en-2023-pas-assez-pour-faire-la-une)  
@@ -69,18 +69,18 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [BonPote: Le monde se dirige vers un réchauffement de +3.1°C](https://bonpote.com/le-monde-se-dirige-vers-un-rechauffement-de-3-1c/)  
 [Reporterre: On a dépassé le seuil de 1,5 °C de réchauffement : pourquoi c’est grave](https://reporterre.net/Pourquoi-le-seuil-de-1-5-oC-de-rechauffement-est-crucial)  
 
-# 2025
+## 2025
 [Plutôt la fin du monde que la fin du capitalisme](https://contre-attaque.net/2025/01/16/plutot-la-fin-du-monde-que-la-fin-du-capitalisme/)  
 [BonPote: Limiter le réchauffement planétaire à +1.5°C n’est désormais plus possible](https://bonpote.com/limiter-le-rechauffement-planetaire-a-1-5c-nest-desormais-plus-possible-les-promesses-sont-officiellement-des-mensonges/)  
 [BonPote: La 7e limite planétaire est officiellement dépassée : l’acidification des océans](https://bonpote.com/la-7e-limite-planetaire-est-officiellement-depassee-lacidification-des-oceans/)  
 
-# Agir
+## Agir
 
 [Il nous faut un plan, du Shift Project](https://ilnousfautunplan.fr/#section-secteurs)  
 [Earth4All, de plusieurs groupes dont le Club de Rome](https://earth4all.life/publications/#deep-dive-papers)  
 [Arbres aux actions](https://www.racinesderesilience.org/arbre-aux-actions/france)  
 
-# Politique
+## Politique
 
 [Christophe Cassou: “N'oublions jamais que les valeurs de l’extrême droite ne sont pas compatibles avec climat“](https://twitter.com/cassouman40/status/1731083153849155945)  
 Comparatifs des programmes: 
@@ -93,7 +93,7 @@ Comparatifs des programmes:
 - [Européennes 2024](https://reporterre.net/Elections-europeennes-notre-analyse-ecolo-des-programmes)  
 - [BonPote: Pour qui faut-il voter à l’élection présidentielle 2022 ?](https://bonpote.com/pour-qui-faut-il-voter-a-lelection-presidentielle-2022/)  
 
-# Les Soulèvements de la Terre
+## Les Soulèvements de la Terre
 
 [Site Officiel](https://lessoulevementsdelaterre.org/)  
 [Telegram](https://t.me/lesamiesdessoulevements)  
@@ -111,7 +111,7 @@ Comparatifs des programmes:
 [Blast: A69 : POURQUOI UNE TELLE ABERRATION ÉCOLOGIQUE ET DÉMOCRATIQUE ?](https://video.blast-info.fr/w/bfEMkPQg5gCrSLx5pAkUTb)  
 [Partager c'est Sympa: Le Carnage de l'A69 : Comment en est-on arrivé LÀ ?!](https://www.youtube.com/watch?v=Foy1LaLEQ9s)  
 
-# Changer de banque
+## Changer de banque
 
 [empreinte carbone](https://www.oxfamfrance.org/climat-et-energie/calculez-lempreinte-carbone-de-votre-compte-bancaire/)  
 [change de banque](https://change-de-banque.org/particulier/)  
@@ -121,10 +121,12 @@ Comparatifs des programmes:
 [assurance](https://moralscore.org/sectors/assurances/)  
 [Blast: Financer la transition](https://www.youtube.com/watch?v=kPKzrSkyz6), [LITA.co](https://fr.lita.co/fr/projects)  
 
-# Infographies
+## Infographies
 
 [ADEME: Changement climatique, il y a urgence à s’adapter](https://multimedia.ademe.fr/infographies/adaptation-changement-climatique/)  
 [BonPote](https://bonpote.com/infographies/)  
 [BonPote: Les scientifiques à suivre](https://bonpote.com/les-scientifiques-a-suivre-sur-twitter/)  
 [BonPote: parcours thématique](https://bonpote.com/parcours/)  
 [BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)
+
+{% link _posts/2025-09-10-infographies.md %}
