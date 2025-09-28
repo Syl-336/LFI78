@@ -129,4 +129,4 @@ Comparatifs des programmes:
 [BonPote: parcours thématique](https://bonpote.com/parcours/)  
 [BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)
 
-{% link _posts/2025-09-10-infographies.md %}
+{% include ressources.md %}

@@ -17,7 +17,6 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/attac_vs_Macron.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/zucman.jpg)
 
-----
 ## Economie
 
 [Les inégalités de revenus en France 2024](https://elucid.media/analyse-graphique/inegalites-revenus-france/inegalites-macron-novembre-2024-exploser-revenus-ultra-riches)
@@ -31,7 +30,6 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/economie/fraude.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
 
-----
 ## Ecologie
 
 [Infographies de BonPote](https://bonpote.com/infographies/)
@@ -45,3 +43,5 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/ecologie/Deciles-1536x1536-1.webp)
 ![]({{ site.baseurl }}/images/infographies/ecologie/viandes.webp)
 ![]({{ site.baseurl }}/images/infographies/ecologie/actionnaires.png)
+
+{% include ressources.md %}
