@@ -22,13 +22,13 @@ excerpt: Ensemble d'infographies
 
 [Les inégalités de revenus en France 2024](https://elucid.media/analyse-graphique/inegalites-revenus-france/inegalites-macron-novembre-2024-exploser-revenus-ultra-riches)
 
+![]({{ site.baseurl }}/images/infographies/economie/fraudes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/revenu_mensuel.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/revenu_mensuel_1percent.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/croissance_annuelle.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/impot.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/evo_500_fortunes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/patrimoine_500_fortunes.jpg)
-![]({{ site.baseurl }}/images/infographies/economie/fraudes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
 
 ## Ecologie
@@ -45,4 +45,4 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/ecologie/viandes.webp)
 ![]({{ site.baseurl }}/images/infographies/ecologie/actionnaires.png)
 
-{% include ressources.md %}
+{% include liens.md %}
