@@ -16,6 +16,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/votes_RN.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/attac_vs_Macron.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/zucman.jpg)
+![]({{ site.baseurl }}/images/infographies/politique/retraite.webp)
 
 ## Economie
 
@@ -27,7 +28,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/economie/impot.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/evo_500_fortunes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/patrimoine_500_fortunes.jpg)
-![]({{ site.baseurl }}/images/infographies/economie/fraude.jpg)
+![]({{ site.baseurl }}/images/infographies/economie/fraudes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
 
 ## Ecologie
