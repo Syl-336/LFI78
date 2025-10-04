@@ -11,3 +11,4 @@ excerpt: Un autre Macron est possible
 [A Gauche: Glucksmann contre le PS](https://www.youtube.com/watch?v=hORyBjn3j3c)  
 [Stefano Palombarini sur Le Média: Glucksmann, croque mort du PS](https://www.youtube.com/watch?v=hVR2ixy_r_s)  
 [Frustration Magazine/Le Média: Raphaël Glucksmann : non, il n'est pas un camarade](https://www.youtube.com/watch?v=k3NiqhdCaX8)
+[Frustration Magazine: À quoi sert Raphaël Glucksmann ?](https://frustrationmagazine.fr/glucksmann)
