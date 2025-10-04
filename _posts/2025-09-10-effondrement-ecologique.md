@@ -41,6 +41,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 > "Côté offre, selon l’US Bureau of Mines (USBM) et certains cabinets de consultants privés, il resterait dans le monde, en l’état actuel des réserves, 18 ans de chrome, 20 ans d’étain, 30 ans de nickel, 33 ans de manganèse, 38 ans de cuivre, 60 ans de cobalt, ..."
 
 ## Interviews
+[Audrey Boelhy: Ces limites planétaires qu'il ne fallait pas franchir](https://www.youtube.com/watch?v=vEWNgIu4xks)
 [Arthur Keller sur Metabolism of Cities: "Le problème c'est penser que ça ne peut pas être pire" (1h44)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [conférence (1h38)](https://www.youtube.com/watch?v=8Y-giuRhsXE)  
 [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
 [Clément Sénéchal: Pourquoi l'écologie perd toujours (1h14)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [livre](https://www.seuil.com/ouvrage/pourquoi-l-ecologie-perd-toujours-clement-senechal/9782021508208), [Frustration Magazine](https://www.frustrationmagazine.fr/ecologie-perd/)  
