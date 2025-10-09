@@ -32,6 +32,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/economie/evo_500_fortunes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/patrimoine_500_fortunes.jpg)
 ![]({{ site.baseurl }}/images/infographies/economie/pauvres.jpg)
+![]({{ site.baseurl }}/images/infographies/economie/impot_entreprise.jpg)
 
 ## Ecologie
 
