@@ -14,7 +14,6 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Christophe Cassou: "Au delà de +2°C, le système d'assurance s’écroule."](https://twitter.com/cassouman40/status/1678514621248831488)  
 [courbe de température](https://meteofrance.com/actualites-et-dossiers-0/6e-rapport-du-giec-que-faut-il-retenir)  
 [fresque du climat](https://prezi.com/view/tJJYWcXs12lz9cXCngmH/)  
-[LIMIT: l'Europe pourrait se refroidir pendant que la Terre brûle ? l'AMOC (24min)](https://www.youtube.com/watch?v=cwyOEe7qzKU)  
 [Les limites à la croissance (rapport Meadows, Club de Rome):](https://fr.wikipedia.org/wiki/Les_Limites_%C3%A0_la_croissance)
 
 - [Data check on the world model that forecast global collapse](https://www.clubofrome.org/blog-post/herrington-world-model/)
@@ -26,6 +25,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Jean Jouzel : "Le capitalisme est incompatible avec la lutte contre le réchauffement climatique"](https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-vendredi-08-septembre-2023-7027100)    
 [La sobriété : un impératif écologique et solidaire](https://www.greenpeace.fr/sobriete-ecologique-solidaire/)  
 [Quels nouveaux récits pour le XXIe siècle turbulent ?](https://blogs.mediapart.fr/carta-academica/blog/160924/quels-nouveaux-recits-pour-le-xxie-siecle-turbulent)  
+[LIMIT: l'Europe pourrait se refroidir pendant que la Terre brûle ? l'AMOC (24min)](https://www.youtube.com/watch?v=cwyOEe7qzKU)  
 
 ### Ressources
 
@@ -40,7 +40,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 
 > "Côté offre, selon l’US Bureau of Mines (USBM) et certains cabinets de consultants privés, il resterait dans le monde, en l’état actuel des réserves, 18 ans de chrome, 20 ans d’étain, 30 ans de nickel, 33 ans de manganèse, 38 ans de cuivre, 60 ans de cobalt, ..."
 
-## Interviews
+## Entretiens
 [Audrey Boelhy: Ces limites planétaires qu'il ne fallait pas franchir](https://www.youtube.com/watch?v=vEWNgIu4xks)
 [Arthur Keller sur Metabolism of Cities: "Le problème c'est penser que ça ne peut pas être pire" (1h44)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [conférence (1h38)](https://www.youtube.com/watch?v=8Y-giuRhsXE)  
 [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
@@ -128,6 +128,7 @@ Comparatifs des programmes:
 [BonPote](https://bonpote.com/infographies/)  
 [BonPote: Les scientifiques à suivre](https://bonpote.com/les-scientifiques-a-suivre-sur-twitter/)  
 [BonPote: parcours thématique](https://bonpote.com/parcours/)  
-[BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)
+[BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)  
+[Carte de France des polluants chimiques dans l'eau.](https://dansmoneau.fr/)
 
 {% include liens.md %}
