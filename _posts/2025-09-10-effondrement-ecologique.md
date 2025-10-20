@@ -35,7 +35,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Cuivre: entre 10 et 40 ans selon l'utilisation](https://en.wikipedia.org/wiki/Copper_extraction#Copper_supply)  
 [ADEME: Le sable, une ressource qui nous file entre les doigts ?](https://www.qqf.fr/infographie/le-sable-une-ressource-qui-nous-file-entre-les-doigts/)  
 [Sable de construction](https://theconversation.com/le-sable-une-ressource-essentielle-en-voie-de-disparition-122094)  
-[extrait d'un interview d'Emmanuel Hache.](https://www.youtube.com/watch?v=ZeZa9SUyeMo)  
+[Greenletter Club: extrait de l'interview d'Emmanuel Hache.](https://www.youtube.com/watch?v=anE1PUNX4yU&t=738s)  
 [CESE: "La dépendance aux métaux stratégiques quelles solutions pour l'économie ?" ](https://www.lecese.fr/content/le-cese-adopte-son-avis-la-dependance-aux-metaux-strategiques-quelles-solutions-pour-leconomie-0)  
 
 > "Côté offre, selon l’US Bureau of Mines (USBM) et certains cabinets de consultants privés, il resterait dans le monde, en l’état actuel des réserves, 18 ans de chrome, 20 ans d’étain, 30 ans de nickel, 33 ans de manganèse, 38 ans de cuivre, 60 ans de cobalt, ..."
