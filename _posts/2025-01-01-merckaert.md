@@ -6,7 +6,7 @@ excerpt: Maire de Montigny-le-Bretonneux
 ---
 ### Réhabilitation du parc Chedeville
 [Coût en mars 2022: 1 050 000 €TTC]({{ site.baseurl }}{% link _posts/2025-01-01-chedeville.md %})  
-[Coût en juin 2024: 1 700 000 €TTC]({{ site.baseurl }}{% link _posts/2025-01-01-chedeville.md %})
+[Coût en juin 2024: 1 700 000 €TTC]({{ site.baseurl }}{% link _posts/2025-01-01-chedeville.md %})  
 [La Gazette SQY ne rapportait qu'un coût de 1 300 000 €TTC en janvier 2024.](https://lagazette-sqy.fr/2024/01/12/votreville/montigny-le-bretonneux/un-projet-de-rehabilitation-du-parc-alain-chedeville/)
 
 ### Hypercentre: Centrality
