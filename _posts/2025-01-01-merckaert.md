@@ -5,8 +5,9 @@ categories: [politique, SQY]
 excerpt: Maire de Montigny-le-Bretonneux
 ---
 ### Réhabilitation du parc Chedeville
-[Coût initial: 229k€.](https://www.macellum.fr/marche/26f9b6d85e75f77b779ef11e0cb81e26e739bd6c-rehabilitation-parc-chedeville-montigny-le-bretonneux)  
-[Coût final: 1.3M€.](https://lagazette-sqy.fr/2024/01/12/votreville/montigny-le-bretonneux/un-projet-de-rehabilitation-du-parc-alain-chedeville/)
+[Coût en mars 2022: 1 050 000 €TTC]({{ site.baseurl }}{% link _posts/2025-01-01-chedeville.md %})  
+[Coût en juin 2024: 1 700 000 €TTC]({{ site.baseurl }}{% link _posts/2025-01-01-chedeville.md %})
+[La Gazette SQY ne rapportait qu'un coût de 1 300 000 €TTC en janvier 2024.](https://lagazette-sqy.fr/2024/01/12/votreville/montigny-le-bretonneux/un-projet-de-rehabilitation-du-parc-alain-chedeville/)
 
 ### Hypercentre: Centrality
 [On nous vend "Plus de nature, plus de vie, plus d'attractivité."](https://www.saint-quentin-en-yvelines.fr/anneau-rouge-hypercentre/)  
