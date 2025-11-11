@@ -41,10 +41,14 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 > "Côté offre, selon l’US Bureau of Mines (USBM) et certains cabinets de consultants privés, il resterait dans le monde, en l’état actuel des réserves, 18 ans de chrome, 20 ans d’étain, 30 ans de nickel, 33 ans de manganèse, 38 ans de cuivre, 60 ans de cobalt, ..."
 
 ## Entretiens
-[Audrey Boelhy: Ces limites planétaires qu'il ne fallait pas franchir](https://www.youtube.com/watch?v=vEWNgIu4xks)
+[Audrey Boelhy: Ces limites planétaires qu'il ne fallait pas franchir (1h05)](https://www.youtube.com/watch?v=vEWNgIu4xks)  
 [Arthur Keller sur Metabolism of Cities: "Le problème c'est penser que ça ne peut pas être pire" (1h44)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [conférence (1h38)](https://www.youtube.com/watch?v=8Y-giuRhsXE)  
+[Jean-Baptiste Fressoz sur ELUCID: Crise énergétique : s’adapter au nouveau monde, ou périr (1h34)](https://indymotion.fr/w/eB9GXNRwkKuCD1ZzBHGaax)  
 [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
 [Clément Sénéchal: Pourquoi l'écologie perd toujours (1h14)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [livre](https://www.seuil.com/ouvrage/pourquoi-l-ecologie-perd-toujours-clement-senechal/9782021508208), [Frustration Magazine](https://www.frustrationmagazine.fr/ecologie-perd/)  
+[Monique Pinçon-Charlot sur ELUCID: L’oligarchie et ses réseaux saccagent le monde (1h27)](https://indymotion.fr/w/bFsXTxPwVAeLkKaSf7UgUP)  
+[Nicolas Framont sur ELUCID: De Macron au RN, les PARASITES sont prêts à TOUT pour maintenir leurs INTÉRÊTS (1h30)](https://indymotion.fr/w/rS1YnYQ4ZYRhUS4jbuCqnk)  
+[Nicolas Framont: Luigi Mangione, les bourgeois et le 10 septembre (2h07)](https://www.youtube.com/watch?v=ycy-7PIFiV0)
 
 ## Documentaires
 [L'homme a mangé la Terre (1h38)](https://peertube.stream/w/jLNTjBPwZFsDqsCTZGqaAi), [sur Arte](https://www.arte.tv/fr/videos/073938-000-A/l-homme-a-mange-la-terre/)  
@@ -102,15 +106,17 @@ Comparatifs des programmes:
 
 #### Sainte-Soline
 
-[Blast: SAINTE-SOLINE : LE RÉCIT DE NOTRE REPORTER FACE AUX MENSONGES DU GVT](https://video.blast-info.fr/w/j28bY9pTPeyEnKn19t78DJ)  
+[Blast: Sainte-Soline : le récit de notre reporter face aux mensonges du gouvernement](https://video.blast-info.fr/w/j28bY9pTPeyEnKn19t78DJ)  
 [Partager c'est Sympa: La bataille des méga-bassines](https://www.youtube.com/watch?v=LMJK2YZEa4M)  
-[OFF Investigation: SAINTE SOLINE, AUTOPSIE D'UN CARNAGE](https://video.off-investigation.fr/w/hVK1TZS3fQ4g7WkuMA39eF)  
+[OFF Investigation: Sainte-Soline, autopsie d'un carnage](https://video.off-investigation.fr/w/hVK1TZS3fQ4g7WkuMA39eF)  
 [rapport de la ligue des droits de l'homme](https://www.ldh-france.org/empecher-lacces-a-la-bassine-quel-quen-soit-le-cout-humain-2/)  
+[Mediapart: La manifestation de Sainte-Soline vue par les gendarmes](https://www.youtube.com/watch?v=TT8j4a10aKE)
 
 #### A69
 
-[Blast: A69 : POURQUOI UNE TELLE ABERRATION ÉCOLOGIQUE ET DÉMOCRATIQUE ?](https://video.blast-info.fr/w/bfEMkPQg5gCrSLx5pAkUTb)  
-[Partager c'est Sympa: Le Carnage de l'A69 : Comment en est-on arrivé LÀ ?!](https://www.youtube.com/watch?v=Foy1LaLEQ9s)  
+[Blast: Pourquoi une telle aberration écologique et démocratique ?](https://video.blast-info.fr/w/bfEMkPQg5gCrSLx5pAkUTb)  
+[Partager c'est Sympa: Le carnage de l'A69 : Comment en est-on arrivé Là ?!](https://www.youtube.com/watch?v=Foy1LaLEQ9s)  
+[OFF Investigation: L'affaire personnelle de Macron ?](https://video.off-investigation.fr/w/ugjpEHudnVzktSTvD2JiX2)
 
 ## Changer de banque
 
