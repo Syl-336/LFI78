@@ -43,10 +43,10 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 ## Entretiens
 [Audrey Boelhy: Ces limites planétaires qu'il ne fallait pas franchir (1h05)](https://www.youtube.com/watch?v=vEWNgIu4xks)  
 [Arthur Keller sur Metabolism of Cities: "Le problème c'est penser que ça ne peut pas être pire" (1h44)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [conférence (1h38)](https://www.youtube.com/watch?v=8Y-giuRhsXE)  
-[Jean-Baptiste Fressoz sur ELUCID: Crise énergétique : s’adapter au nouveau monde, ou périr (1h34)](https://indymotion.fr/w/eB9GXNRwkKuCD1ZzBHGaax)  
 [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
 [Clément Sénéchal: Pourquoi l'écologie perd toujours (1h14)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [livre](https://www.seuil.com/ouvrage/pourquoi-l-ecologie-perd-toujours-clement-senechal/9782021508208), [Frustration Magazine](https://www.frustrationmagazine.fr/ecologie-perd/)  
-[Monique Pinçon-Charlot sur ELUCID: L’oligarchie et ses réseaux saccagent le monde (1h27)](https://indymotion.fr/w/bFsXTxPwVAeLkKaSf7UgUP)  
+[Jean-Baptiste Fressoz sur ELUCID: Crise énergétique : s’adapter au nouveau monde, ou périr (1h34)](https://indymotion.fr/w/eB9GXNRwkKuCD1ZzBHGaax)  
+[Monique Pinçon-Charlot sur OFF-Investigation: « Un État aux mains des plus riches pour les plus riches » (23min)](https://www.youtube.com/watch?v=ru8LCxH7fbY)  
 [Nicolas Framont sur ELUCID: De Macron au RN, les PARASITES sont prêts à TOUT pour maintenir leurs INTÉRÊTS (1h30)](https://indymotion.fr/w/rS1YnYQ4ZYRhUS4jbuCqnk)  
 [Nicolas Framont: Luigi Mangione, les bourgeois et le 10 septembre (2h07)](https://www.youtube.com/watch?v=ycy-7PIFiV0)
 
@@ -84,6 +84,8 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Il nous faut un plan, du Shift Project](https://ilnousfautunplan.fr/#section-secteurs)  
 [Earth4All, de plusieurs groupes dont le Club de Rome](https://earth4all.life/publications/#deep-dive-papers)  
 [Arbres aux actions](https://www.racinesderesilience.org/arbre-aux-actions/france)  
+[ARTE: Planter à tout prix - Des arbres pour sauver la planète ? (1h28)](https://www.youtube.com/watch?&v=6EFJc6Tk06E)
+[BÉTON 🆚 BOIS TERRE PAILLE : La vraie révolution sociale-écologique !](https://www.youtube.com/watch?v=NQs6aU-aMSs)
 
 ## Politique
 
