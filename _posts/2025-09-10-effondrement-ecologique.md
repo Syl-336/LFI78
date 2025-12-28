@@ -43,6 +43,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 ## Entretiens
 [Audrey Boelhy: Ces limites planétaires qu'il ne fallait pas franchir (1h05)](https://www.youtube.com/watch?v=vEWNgIu4xks)  
 [Arthur Keller sur Metabolism of Cities: "Le problème c'est penser que ça ne peut pas être pire" (1h44)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [conférence (1h38)](https://www.youtube.com/watch?v=8Y-giuRhsXE)  
+[Ilian Moundib sur LIMIT: Peut-on vraiment s’adapter au chaos climatique ?](https://www.youtube.com/watch?v=xQx_PuPqQdw)
 [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
 [Clément Sénéchal: Pourquoi l'écologie perd toujours (1h14)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [livre](https://www.seuil.com/ouvrage/pourquoi-l-ecologie-perd-toujours-clement-senechal/9782021508208), [Frustration Magazine](https://www.frustrationmagazine.fr/ecologie-perd/)  
 [Jean-Baptiste Fressoz sur ELUCID: Crise énergétique : s’adapter au nouveau monde, ou périr (1h34)](https://indymotion.fr/w/eB9GXNRwkKuCD1ZzBHGaax)  
@@ -85,7 +86,8 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 [Earth4All, de plusieurs groupes dont le Club de Rome](https://earth4all.life/publications/#deep-dive-papers)  
 [Arbres aux actions](https://www.racinesderesilience.org/arbre-aux-actions/france)  
 [ARTE: Planter à tout prix - Des arbres pour sauver la planète ? (1h28)](https://www.youtube.com/watch?&v=6EFJc6Tk06E)
-[BÉTON 🆚 BOIS TERRE PAILLE : La vraie révolution sociale-écologique !](https://www.youtube.com/watch?v=NQs6aU-aMSs)
+[BÉTON 🆚 BOIS TERRE PAILLE : La vraie révolution sociale-écologique !](https://www.youtube.com/watch?v=NQs6aU-aMSs)  
+[A bas l'égoïsme - avec Pablo Servigne](https://www.youtube.com/watch?v=xJKjXQwxiwc)
 
 ## Politique
 
