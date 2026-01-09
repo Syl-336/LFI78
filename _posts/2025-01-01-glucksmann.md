@@ -13,4 +13,5 @@ excerpt: Un autre Macron est possible
 [Frustration Magazine/Le Média: Raphaël Glucksmann : non, il n'est pas un camarade.](https://www.youtube.com/watch?v=k3NiqhdCaX8)  
 [Frustration Magazine: À quoi sert Raphaël Glucksmann ?](https://frustrationmagazine.fr/glucksmann)  
 [Contre-Attaque: Le Parti Socialiste n’a pas trahi, il est juste fidèle à son histoire.](https://contre-attaque.net/2025/10/16/le-parti-socialiste-na-pas-trahi-il-est-juste-fidele-a-son-histoire-2/)  
-[A Gauche: Raphaël Glucksmann n'est pas de gauche.](https://www.youtube.com/watch?v=yB3GJZkD1G8)
+[A Gauche: Raphaël Glucksmann n'est pas de gauche.](https://www.youtube.com/watch?v=yB3GJZkD1G8)  
+[Clément Viktorovitch: 3 preuves que Glucksmann est l'héritier de Macron](https://www.youtube.com/watch?v=0VKNGIwBuBI)

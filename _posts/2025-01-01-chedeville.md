@@ -13,7 +13,7 @@ Ce chantier a été lancé sans définir les enjeux du projet mais avec seulemen
 
 ## [Conseil municipal du 30 juin 2025](https://youtu.be/NU5F9rwgU9Y?t=7830)
 
-[Au Conseil municipal du 30 juin 2025](](https://youtu.be/NU5F9rwgU9Y?t=7830)), questionné au sujet de la dérive des coûts et des délais, le maire a déclaré à:  
+Au Conseil municipal du 30 juin 2025, questionné au sujet de la dérive des coûts et des délais, le maire a déclaré à:  
 ["l'ouverture au public est prévue en septembre"](https://youtu.be/NU5F9rwgU9Y?t=8309)  
 Septembre, octobre, novembre... à ce jour le parc reste fermé et grillagé (" chantier interdit au public")
 
