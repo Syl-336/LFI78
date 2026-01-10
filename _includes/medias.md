@@ -1,7 +1,14 @@
-## Médias Indépendants
+## Contexte
+
 [Médias français, qui possède quoi ?](https://www.monde-diplomatique.fr/cartes/PPA)  
-[Portail des Médias Libres](https://portail.basta.media/)  
+[Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
 [ACRIMED](https://www.acrimed.org/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@acrimedvideos)  
+Playlists de Blast:
+- [4ème pouvoir avec ACRIMED](https://www.youtube.com/playlist?list=PLv1KZC6gJTFk2ITJmLvLnyL6d8XIcj1NO)
+- [Le ZAP](https://www.youtube.com/playlist?list=PLv1KZC6gJTFnckgNteHy8GuYo8UezBJpW)
+
+## Médias Indépendants
+[Portail des Médias Libres](https://portail.basta.media/)  
 [Basta!](https://basta.media/)  
 [Blast](https://www.blast-info.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@blastinfo) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://video.blast-info.fr/) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/blast_france)  
 [Canard Réfractaire](https://linktr.ee/Canardrefractaire) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@LeCanardR%C3%A9fractaire)  
