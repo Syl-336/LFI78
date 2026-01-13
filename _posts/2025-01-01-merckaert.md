@@ -24,6 +24,10 @@ excerpt: Maire de Montigny-le-Bretonneux
 ### Ile de loisirs
 [Coût: 51.8M€](https://tv78.com/ile-loisirs-saint-quentin-en-yvelines-projet-grandeur-nature/)
 
+### Airbus
+
+[Un site de 36 000 m² dans la zone d’activités du Pas du lac, 1 500 collaborateurs.](https://lagazette-sqy.fr/2025/11/14/votreville/montigny-le-bretonneux/a-quoi-ressemblera-le-futur-campus-airbus-de-montigny/)
+
 ## Charles Rodwell
 Lorrain Merckaert soutient le député Charles Rodwell, soutien réciproque ([1](https://www.linkedin.com/posts/charles-rodwell_legislatives2024-versailles-guyancourt-activity-7214573367700418560-YAEP/), [2](https://charlesrodwell.fr/un-grand-merci-a-tous-detre-venus-si-nombreux-a-notre-rentree-politique/)).  
 [Charles Rodwell, député macroniste de droite-extrême.]({{ site.baseurl }}{% link _posts/2025-01-01-rodwell.md %})
