@@ -2,7 +2,7 @@
 layout: post
 title: Plus Jamais PS
 categories: [politique]
-excerpt: Recueil des trahisons du PS
+excerpt: Recueil des trahisons du PS.
 ---
 
 - [Le Parti Socialiste n’a pas trahi, il est juste fidèle à son histoire.](https://contre-attaque.net/2025/10/16/le-parti-socialiste-na-pas-trahi-il-est-juste-fidele-a-son-histoire-2/)
@@ -18,7 +18,7 @@ excerpt: Recueil des trahisons du PS
 
 ## Olivier Faure
 
-- [Quel cap pour le PS ? Olivier Faure face à l'Huma | ÇA IRA !](https://www.youtube.com/watch?v=ppZTLJKWgrM)  
+- [Quel cap pour le PS ? Olivier Faure face à l'Huma - ÇA IRA !](https://www.youtube.com/watch?v=ppZTLJKWgrM)  
 - [Olivier Faure et le 49.3, compilation des renoncements du Parti socialiste.](https://x.com/L_insoumission/status/2013651420780597298)
 
 ## Gouvernement Lecornu

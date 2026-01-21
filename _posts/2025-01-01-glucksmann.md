@@ -2,7 +2,7 @@
 layout: post
 title: Raphaël Glucksmann
 categories: [politique]
-excerpt: Un autre Macron est possible
+excerpt: Un autre Macron est possible.
 ---
 - [Le Monde Diplomatique: Un autre Macron est possible.](https://www.monde-diplomatique.fr/2018/12/RIMBERT/59364)  
 - [Blast: Un autre Macron est possible.](https://www.youtube.com/watch?v=N0HqQ9N-G4M)  

@@ -25,7 +25,6 @@ excerpt: Maire de Montigny-le-Bretonneux
 [Coût: 51.8M€](https://tv78.com/ile-loisirs-saint-quentin-en-yvelines-projet-grandeur-nature/)
 
 ### Airbus
-
 [Un site de 36 000 m² dans la zone d’activités du Pas du lac, 1 500 collaborateurs.](https://lagazette-sqy.fr/2025/11/14/votreville/montigny-le-bretonneux/a-quoi-ressemblera-le-futur-campus-airbus-de-montigny/)
 
 ## Charles Rodwell

@@ -13,4 +13,4 @@ excerpt: "Mettre fin au capitalisme ? Faudra m'expliquer ce qu'on met à la plac
 ## Capitalisme
 
 - [A Gauche: La cheffe d'EELV sur le capitalisme.](https://www.youtube.com/watch?v=Fu-DiJX85H0)
-- [Écologie et union de la gauche : Marine Tondelier face à l'Huma | ÇA IRA !](https://youtu.be/Pvh4gDyO1Js?t=1196)
+- [Écologie et union de la gauche : Marine Tondelier face à l'Huma - ÇA IRA !](https://youtu.be/Pvh4gDyO1Js?t=1196)
