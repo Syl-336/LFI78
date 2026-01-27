@@ -15,6 +15,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/votes_femmes.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/destitution.png)
 ![]({{ site.baseurl }}/images/infographies/politique/votes_RN.jpg)
+![]({{ site.baseurl }}/images/infographies/politique/LFI_mercosur.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/attac_vs_Macron.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/zucman.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/censure.jpg)
