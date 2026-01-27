@@ -10,6 +10,7 @@ excerpt: Maire de Montigny-le-Bretonneux
 - [La Gazette SQY ne rapportait qu'un coût de 1 300 000 €TTC en janvier 2024.](https://lagazette-sqy.fr/2024/01/12/votreville/montigny-le-bretonneux/un-projet-de-rehabilitation-du-parc-alain-chedeville/)
 
 ### Hypercentre: Centrality
+- [L'Anneau Rouge]({{ site.baseurl }}{% link _posts/2025-01-01-anneau-rouge.md %})  
 - [On nous vend "Plus de nature, plus de vie, plus d'attractivité."](https://www.saint-quentin-en-yvelines.fr/anneau-rouge-hypercentre/)  
 - [Ça sera finalement "principalement des immeubles de bureaux."](https://lagazette-sqy.fr/2024/11/19/votreville/montigny-le-bretonneux/la-destruction-de-lanneau-rouge-etape-cle-du-renouveau-de-lhypercentre/)  
 - [Projet Centrality: des bureaux.](https://www.codic.eu/projets/centrality/)
@@ -25,7 +26,9 @@ excerpt: Maire de Montigny-le-Bretonneux
 [Coût: 51.8M€](https://tv78.com/ile-loisirs-saint-quentin-en-yvelines-projet-grandeur-nature/)
 
 ### Airbus
-[Un site de 36 000 m² dans la zone d’activités du Pas du lac, 1 500 collaborateurs.](https://lagazette-sqy.fr/2025/11/14/votreville/montigny-le-bretonneux/a-quoi-ressemblera-le-futur-campus-airbus-de-montigny/)
+- [Un site de 36 000 m² dans la zone d’activités du Pas du lac, 1 500 collaborateurs.](https://lagazette-sqy.fr/2025/11/14/votreville/montigny-le-bretonneux/a-quoi-ressemblera-le-futur-campus-airbus-de-montigny/)
+- [Gaza : le missilier MBDA (filiale d'Airbus) complice de crimes de guerre](https://disclose.ngo/fr/article/gaza-le-missilier-mbda-complice-de-crimes-de-guerre)
+- [Stop Arming Israël](https://padlet.com/stoparmingisraelfrance/stop-arming-israel-france-smlj5i3burhikad3/wish/2921793288)
 
 ## Charles Rodwell
 Lorrain Merckaert soutient le député Charles Rodwell, soutien réciproque ([1](https://www.linkedin.com/posts/charles-rodwell_legislatives2024-versailles-guyancourt-activity-7214573367700418560-YAEP/), [2](https://charlesrodwell.fr/un-grand-merci-a-tous-detre-venus-si-nombreux-a-notre-rentree-politique/)).  
