@@ -10,6 +10,7 @@ excerpt: Recueil des trahisons du PS.
 - [Frustration Magazine: Pourquoi la gauche trahit (et comment l’en empêcher)](https://frustrationmagazine.fr/gauche-trahit)  
 - [Glupatate: Le Parti Socialiste a SOUTENU Israël : never forget. 🇵🇸](https://www.youtube.com/shorts/3HR3KsRuZ-k)
 - [Mediapart: Parti socialiste - Naissance du Cercle socialiste des ami·e·s d’Israël.](https://blogs.mediapart.fr/arnaudf92/blog/290425/parti-socialiste-naissance-du-cercle-socialiste-des-ami-e-s-d-israel)
+- [La Brèche: PS : 40 ANS DE TRAHISON ! (Saïd Bouamama, Nicolas Da Silva, Stefano Palombarini, Dr Zoé)](https://www.youtube.com/watch?v=sLYHEdLguVc)
 
 ## François Hollande
 
