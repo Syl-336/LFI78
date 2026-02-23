@@ -16,6 +16,8 @@ excerpt: Recueil des trahisons du PS.
 
 - [A Gauche: François Hollande a fait assassiner plus que tous les autres présidents.](https://www.youtube.com/watch?v=ovWjx2En8O0)
 - [Arnaud Montebourg reconnaît que la fameuse taxe à 75% sur les très hauts revenus n’était qu’un stratagème pour séduire les électeurs de LFI et passer devant Jean-Luc Mélenchon.](https://mastodon.social/@Brevesdepresse/115494281134251340)
+- [Contre-Attaque: Le Parti Socialiste : marchepied du fascisme](https://contre-attaque.net/2026/02/23/le-parti-socialiste-marchepied-du-fascisme/)
+- [PaduTeam: HOLLANDE CONTRE-ATTAQUE : "MÉLENCHON NE SERA PAS AU 2ÈME TOUR" !!](https://www.youtube.com/watch?v=BaoHrF9zy24)
 
 ## Olivier Faure
 
