@@ -13,6 +13,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/vote_groupes.png)
 [![Vote de la loi Duplomb]({{ site.baseurl }}/images/infographies/politique/duplomb.jpg)]((https://www.generations-futures.fr/actualites/pour-contre-duplomb/))
 ![]({{ site.baseurl }}/images/infographies/politique/votes_femmes.jpg)
+![]({{ site.baseurl }}/images/infographies/politique/rn_feminisme.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/destitution.png)
 ![]({{ site.baseurl }}/images/infographies/politique/votes_RN.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/LFI_mercosur.jpg)
