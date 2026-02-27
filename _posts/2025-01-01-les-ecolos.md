@@ -14,3 +14,8 @@ excerpt: "Mettre fin au capitalisme ? Faudra m'expliquer ce qu'on met à la plac
 
 - [A Gauche: La cheffe d'EELV sur le capitalisme.](https://www.youtube.com/watch?v=Fu-DiJX85H0)
 - [Écologie et union de la gauche : Marine Tondelier face à l'Huma - ÇA IRA !](https://youtu.be/Pvh4gDyO1Js?t=1196)
+
+## Antifascisme
+
+- [La Tribune Dimanche: Yannick Jadot, sénateur Les Écologistes de Paris : « Jean-Luc Mélenchon doit faire les clarifications nécessaires pour rester dans l’arc républicain »](https://www.latribune.fr/article/la-tribune-dimanche/politique/1836232818177814/yannick-jadot-senateur-les-ecologistes-de-paris-jean-luc-melenchon-doit-faire-les-clarifications-necessaires-pour-rester-dans-l-arc-republicain)
+- [Tondelier sur la Jeune Garde et Raphaël Arnault.](https://www.instagram.com/reels/DU6g2gmjJy5/)
