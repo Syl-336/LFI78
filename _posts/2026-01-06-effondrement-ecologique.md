@@ -56,6 +56,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
 - [Un pays qui se tient sage (1h29)](https://peertube.stream/w/rh2cb3PiqnQLZgFnDFhjtu)  
 - [La Stratégie du Choc (1h16)](https://peertube.stream/w/grhJ9SDdHVtGhKGaSFYJHG)  
+- [Hacking Social: La France a peur.](https://www.youtube.com/watch?v=8WiiqssAME4)
 
 ## 2023
 - [Rapport du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/rapport-grand-public-2023/)  
