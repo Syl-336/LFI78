@@ -21,6 +21,7 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/zucman.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/censure.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/PS.jpg)
+![]({{ site.baseurl }}/images/infographies/politique/condamnés.png)
 
 ## Economie
 
