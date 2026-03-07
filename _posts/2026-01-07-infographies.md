@@ -22,6 +22,8 @@ excerpt: Ensemble d'infographies
 ![]({{ site.baseurl }}/images/infographies/politique/censure.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/PS.jpg)
 ![]({{ site.baseurl }}/images/infographies/politique/condamnés.png)
+https://casier-politique.fr/
+[![Base de données des condamnations des élu·e·s]({{ site.baseurl }}/images/infographies/politique/condamnés.jpg)](https://casier-politique.fr/)
 
 ## Economie
 
