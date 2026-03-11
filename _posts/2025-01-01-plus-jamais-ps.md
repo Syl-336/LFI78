@@ -5,13 +5,14 @@ categories: [politique]
 excerpt: Recueil des trahisons du PS.
 ---
 
+- [Hors-Série: Annuler LFI : le dangereux fantasme du PS.](https://www.hors-serie.net/annuler-lfi-le-dangereux-fantasme-du-ps/)
 - [Contre-Attaque: Le Parti Socialiste n’a pas trahi, il est juste fidèle à son histoire.](https://contre-attaque.net/2025/10/16/le-parti-socialiste-na-pas-trahi-il-est-juste-fidele-a-son-histoire-2/)
 - [Contre-Attaque: La sociale démocratie : dernier rempart du néolibéralisme militarisé.](https://contre-attaque.net/2025/12/10/la-sociale-democratie-dernier-rempart-du-neoliberalisme-militarise/)
 - [Frustration Magazine: Pourquoi la gauche trahit (et comment l’en empêcher)](https://frustrationmagazine.fr/gauche-trahit)  
 - [Glupatate: Le Parti Socialiste a SOUTENU Israël : never forget. 🇵🇸](https://www.youtube.com/shorts/3HR3KsRuZ-k)
 - [Mediapart: Parti socialiste - Naissance du Cercle socialiste des ami·e·s d’Israël.](https://blogs.mediapart.fr/arnaudf92/blog/290425/parti-socialiste-naissance-du-cercle-socialiste-des-ami-e-s-d-israel)
 - [La Brèche: PS : 40 ANS DE TRAHISON ! (Saïd Bouamama, Nicolas Da Silva, Stefano Palombarini, Dr Zoé)](https://www.youtube.com/watch?v=sLYHEdLguVc)
-- [Hors-Série: Annuler LFI : le dangereux fantasme du PS.](https://www.hors-serie.net/annuler-lfi-le-dangereux-fantasme-du-ps/)
+- [Fakir (9 ans): quand Ruffin appelait à ne plus voter PS...](https://www.youtube.com/watch?v=QJQm69F8NPw)
 
 ## François Hollande
 
