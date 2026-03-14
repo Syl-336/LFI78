@@ -1,11 +1,4 @@
-## Contexte
-
-[Médias français, qui possède quoi ?](https://www.monde-diplomatique.fr/cartes/PPA)  
-[Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
-[ACRIMED](https://www.acrimed.org/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@acrimedvideos)  
-Playlists de Blast:
-- [4ème pouvoir avec ACRIMED](https://www.youtube.com/playlist?list=PLv1KZC6gJTFk2ITJmLvLnyL6d8XIcj1NO)
-- [Le ZAP](https://www.youtube.com/playlist?list=PLv1KZC6gJTFnckgNteHy8GuYo8UezBJpW)
+[Propagande médiatique.]({{ site.baseurl }}{% link _posts/2026-01-03-propagande.md %})  
 
 ## Médias Indépendants
 [Portail des Médias Libres](https://portail.basta.media/)  
