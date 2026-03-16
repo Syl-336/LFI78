@@ -7,6 +7,7 @@ excerpt: "L'ignorance, c'est la force"
 
 ## Documentaires
 - [Médias français, qui possède quoi ?](https://www.monde-diplomatique.fr/cartes/PPA)  
+- [Hacking Social: La France a peur (43min)](https://www.youtube.com/watch?v=8WiiqssAME4)
 - [Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
 - [ELUCID: VOUS ALLEZ AIMER LA GUERRE ! Comment la propagande détraque notre esprit et « nos valeurs » (49min)](https://www.youtube.com/watch?v=gnJjhMwHVtU)  
 - [Pierre Bourdieu. Sur la télévision (49min)](https://www.youtube.com/watch?v=vcc6AEpjdcY&list=PL9wRd30yET41nv0KAtTXN2hkGMYm37nfJ&index=2)
