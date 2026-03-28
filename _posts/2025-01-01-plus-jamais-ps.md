@@ -20,13 +20,14 @@ excerpt: Recueil des trahisons du PS.
 - [Arnaud Montebourg reconnaît que la fameuse taxe à 75% sur les très hauts revenus n’était qu’un stratagème pour séduire les électeurs de LFI et passer devant Jean-Luc Mélenchon.](https://mastodon.social/@Brevesdepresse/115494281134251340)
 - [Contre-Attaque: Le Parti Socialiste : marchepied du fascisme](https://contre-attaque.net/2026/02/23/le-parti-socialiste-marchepied-du-fascisme/)
 - [PaduTeam: HOLLANDE CONTRE-ATTAQUE : "MÉLENCHON NE SERA PAS AU 2ÈME TOUR" !!](https://www.youtube.com/watch?v=BaoHrF9zy24)
+- [Politis: La gauche de Hollande préfère la défaite.](https://www.politis.fr/articles/2026/03/la-gauche-de-hollande-prefere-la-defaite/)
 
 ## Olivier Faure
 
 - [Quel cap pour le PS ? Olivier Faure face à l'Huma - ÇA IRA !](https://www.youtube.com/watch?v=ppZTLJKWgrM)  
 - [Olivier Faure et le 49.3, compilation des renoncements du Parti socialiste.](https://x.com/L_insoumission/status/2013651420780597298)
 - [Glupatate: uand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
-
+- [Le Monde: Olivier Faure assure qu’il « n’y aura pas d’accord national » entre le PS et LFI pour la présidentielle et les législatives de 2027.](https://www.lemonde.fr/politique/article/2026/03/27/olivier-faure-assure-qu-il-n-y-aura-pas-d-accord-national-entre-le-ps-et-lfi-pour-la-presidentielle-et-les-legislatives-de-2027_6674448_823448.html)
 ## Gouvernement Lecornu
 
 - [Radio Nova: Comme d’habitude - La chronique de Pierre-Emmanuel Barré](https://www.youtube.com/watch?v=bV204jL04SQ)

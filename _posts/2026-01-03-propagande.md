@@ -5,8 +5,9 @@ categories: [medias]
 excerpt: "L'ignorance, c'est la force"
 ---
 
+[Médias français, qui possède quoi ?](https://www.monde-diplomatique.fr/cartes/PPA)  
+
 ## Documentaires
-- [Médias français, qui possède quoi ?](https://www.monde-diplomatique.fr/cartes/PPA)  
 - [Hacking Social: La France a peur (43min)](https://www.youtube.com/watch?v=8WiiqssAME4)
 - [Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
 - [ELUCID: VOUS ALLEZ AIMER LA GUERRE ! Comment la propagande détraque notre esprit et « nos valeurs » (49min)](https://www.youtube.com/watch?v=gnJjhMwHVtU)  
@@ -15,7 +16,11 @@ excerpt: "L'ignorance, c'est la force"
 
 ## Médias
 - [ACRIMED](https://www.acrimed.org/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@acrimedvideos)  
+- [Arrêt sur Images](https://www.arretsurimages.net/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@Arr%C3%AAtsurimages-w9h/videos)
 - [Blast](https://www.blast-info.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@blastinfo) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://video.blast-info.fr/) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/blast_france):
   - [Rhinocéros](https://www.youtube.com/watch?v=-EKqiH9ceoc&list=PLv1KZC6gJTFkFmZmlejLN6qyV7gvcmXwd)
   - [4ème pouvoir avec ACRIMED](https://www.youtube.com/playlist?list=PLv1KZC6gJTFk2ITJmLvLnyL6d8XIcj1NO)
   - [Le ZAP](https://www.youtube.com/playlist?list=PLv1KZC6gJTFnckgNteHy8GuYo8UezBJpW)
+
+## Articles
+- [Blast, tribune du sociologue Didier Éribon: Des nouvelles des nouveaux chiens de garde.](https://www.blast-info.fr/articles/2026/des-nouvelles-des-nouveaux-chiens-de-garde-ndFQOS1DR6mCclVBExRlNg)

@@ -13,6 +13,9 @@ excerpt: Un autre Macron est possible.
 - [Contre-Attaque: Le Parti Socialiste n’a pas trahi, il est juste fidèle à son histoire.](https://contre-attaque.net/2025/10/16/le-parti-socialiste-na-pas-trahi-il-est-juste-fidele-a-son-histoire-2/)  
 - [A Gauche: Raphaël Glucksmann n'est pas de gauche.](https://www.youtube.com/watch?v=yB3GJZkD1G8)  
 - [Clément Viktorovitch: 3 preuves que Glucksmann est l'héritier de Macron](https://www.youtube.com/watch?v=0VKNGIwBuBI)
+- [Glucksmann sur France Inter: “LFI, ce n'est pas la gauche”](https://youtube.com/shorts/RegDvvgQ-HI)
+- [Politis: Neuf listes, huit défaites : le vrai bilan de Glucksmann au second tour des municipales.](https://www.politis.fr/articles/2026/03/neuf-listes-huit-defaites-le-vrai-bilan-de-raphael-glucksmann-au-second-tour-des-municipales/?_thumbnail_id=455754)
+- [Contre-Attaque: Glucksmann ou le comique involontaire.](https://contre-attaque.net/2026/03/24/glucksmann-ou-le-comique-involontaire/)
 
 ## Memes
 - [A Gauche/Libre Insolent: Montage Macron/Glucksmann.](https://www.youtube.com/watch?v=MiUer9npVKs)  
