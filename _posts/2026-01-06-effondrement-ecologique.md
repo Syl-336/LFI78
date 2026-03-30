@@ -15,10 +15,8 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [courbe de température](https://meteofrance.com/actualites-et-dossiers-0/6e-rapport-du-giec-que-faut-il-retenir)  
 - [fresque du climat](https://prezi.com/view/tJJYWcXs12lz9cXCngmH/)  
 - [Les limites à la croissance (rapport Meadows, Club de Rome):](https://fr.wikipedia.org/wiki/Les_Limites_%C3%A0_la_croissance)
-
-- [Data check on the world model that forecast global collapse](https://www.clubofrome.org/blog-post/herrington-world-model/)
-- [Limits to Growth was right about collapse](https://www.resilience.org/stories/2025-05-20/limits-to-growth-was-right-about-collapse/)
-
+  - [Data check on the world model that forecast global collapse](https://www.clubofrome.org/blog-post/herrington-world-model/)
+  - [Limits to Growth was right about collapse](https://www.resilience.org/stories/2025-05-20/limits-to-growth-was-right-about-collapse/)
 - [Carbon tunnel vision](https://www.sei.org/perspectives/move-beyond-carbon-tunnel-vision/)  
 - [Faire sa part ? (Carbone4, 2019)](https://www.carbone4.com/publication-faire-sa-part)  
 - [Comment les écogestes entretiennent la catastrophe](https://frustrationmagazine.fr/ecogestes)  

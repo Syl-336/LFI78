@@ -12,8 +12,8 @@ excerpt: "Mettre fin au capitalisme ? Faudra m'expliquer ce qu'on met à la plac
 
 ## Capitalisme
 
+- [A Gauche/L'Huma: Démonstration du naufrage de EELV avec Marine Tondolier - Montage Alexandre Jaafari](https://www.youtube.com/watch?v=poEkfb2g11I), [passage.](https://youtu.be/Pvh4gDyO1Js?t=1196)
 - [A Gauche: La cheffe d'EELV sur le capitalisme.](https://www.youtube.com/watch?v=Fu-DiJX85H0)
-- [Écologie et union de la gauche : Marine Tondelier face à l'Huma - ÇA IRA !](https://youtu.be/Pvh4gDyO1Js?t=1196)
 
 ## Antifascisme
 
