@@ -15,9 +15,9 @@ excerpt: "L'ignorance, c'est la force"
 - [Chomsky, les médias et les illusions nécessaires (2h47)](https://www.youtube.com/watch?v=EGAyoXtat-s)
 
 ## Médias
-- [ACRIMED](https://www.acrimed.org/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@acrimedvideos)  
-- [Arrêt sur Images](https://www.arretsurimages.net/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@Arr%C3%AAtsurimages-w9h/videos)
-- [Blast](https://www.blast-info.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@blastinfo) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://video.blast-info.fr/) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/blast_france):
+- [ACRIMED](https://www.acrimed.org/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@acrimedvideos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://mamot.fr/@acrimed)  
+- [Arrêt sur Images](https://www.arretsurimages.net/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@Arr%C3%AAtsurimages-w9h/videos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://mamot.fr/@arretsurimages)
+- [Blast](https://www.blast-info.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@blastinfo) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://video.blast-info.fr/) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/blast_france) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://mamot.fr/@blast_info):
   - [Rhinocéros](https://www.youtube.com/watch?v=-EKqiH9ceoc&list=PLv1KZC6gJTFkFmZmlejLN6qyV7gvcmXwd)
   - [4ème pouvoir avec ACRIMED](https://www.youtube.com/playlist?list=PLv1KZC6gJTFk2ITJmLvLnyL6d8XIcj1NO)
   - [Le ZAP](https://www.youtube.com/playlist?list=PLv1KZC6gJTFnckgNteHy8GuYo8UezBJpW)
