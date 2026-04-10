@@ -24,3 +24,11 @@ excerpt: "L'ignorance, c'est la force"
 
 ## Articles
 - [Blast, tribune du sociologue Didier Éribon: Des nouvelles des nouveaux chiens de garde.](https://www.blast-info.fr/articles/2026/des-nouvelles-des-nouveaux-chiens-de-garde-ndFQOS1DR6mCclVBExRlNg)
+
+## Les sondages
+- [Blast: 🦏 SONDAGES D'OPINION : L'OVERDOSE (21min)](https://www.youtube.com/watch?v=PVMDpBpMcgI)
+- [Blast: Sondages d’« intentions de vote » : il est temps de fermer l’usine à fake news.](https://www.blast-info.fr/articles/2026/sondages-d-intentions-de-vote-il-est-temps-de-fermer-lusine-a-fake-news-L8UAZ2bYS6e-WENnEVxRLw)
+- [FOCUS: Les sondages nous manipulent-t-ils ? | Dézoom (11min)](https://www.youtube.com/watch?v=fxG6O53lrz0)
+- [ACRIMED: En finir avec les faux débats sur les sondages ?](https://www.acrimed.org/En-finir-avec-les-faux-debats-sur-les-sondages)
+- [ACRIMED: Sondages](https://www.acrimed.org/+-Sondages-+)
+- [L'Insoumission: Victoire du Nouveau Front Populaire – 27 sondages sur 27 ont menti à 100 %](https://linsoumission.fr/2024/07/08/victoire-nfp-sondages-ont-menti/)

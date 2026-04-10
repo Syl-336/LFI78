@@ -6,6 +6,7 @@ excerpt: Recueil des trahisons du PS.
 ---
 
 - [Hors-Série: Annuler LFI : le dangereux fantasme du PS.](https://www.hors-serie.net/annuler-lfi-le-dangereux-fantasme-du-ps/)
+- [Hors-Série: Municipales 2026 : l’élan et la poisse.](https://www.hors-serie.net/municipales-2026-lelan-et-la-poisse/)
 - [Contre-Attaque: Le Parti Socialiste n’a pas trahi, il est juste fidèle à son histoire.](https://contre-attaque.net/2025/10/16/le-parti-socialiste-na-pas-trahi-il-est-juste-fidele-a-son-histoire-2/)
 - [Contre-Attaque: La sociale démocratie : dernier rempart du néolibéralisme militarisé.](https://contre-attaque.net/2025/12/10/la-sociale-democratie-dernier-rempart-du-neoliberalisme-militarise/)
 - [Frustration Magazine: Pourquoi la gauche trahit (et comment l’en empêcher)](https://frustrationmagazine.fr/gauche-trahit)  
