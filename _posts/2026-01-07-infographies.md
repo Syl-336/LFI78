@@ -52,5 +52,3 @@ https://casier-politique.fr/
 ![]({{ site.baseurl }}/images/infographies/ecologie/Deciles-1536x1536-1.webp)
 ![]({{ site.baseurl }}/images/infographies/ecologie/viandes.webp)
 ![]({{ site.baseurl }}/images/infographies/ecologie/actionnaires.png)
-
-{% include liens.md %}

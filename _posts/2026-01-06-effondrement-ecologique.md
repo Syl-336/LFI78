@@ -139,5 +139,3 @@ Comparatifs des programmes:
 - [BonPote: parcours thématique](https://bonpote.com/parcours/)  
 - [BonPote: bonnes ressources](https://bonpote.com/bonnes-ressources/)  
 - [Carte de France des polluants chimiques dans l'eau.](https://dansmoneau.fr/)
-
-{% include liens.md %}
