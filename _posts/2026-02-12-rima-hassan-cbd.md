@@ -11,3 +11,4 @@ excerpt: Rima Hassan encore une fois harcelée
 - [Contre-Attaque: Kompromat : des campagnes de déstabilisation et de diffamation contre les membres de la France Insoumise.](https://contre-attaque.net/2026/04/04/kompromat-des-campagnes-de-destabilisation-et-de-diffamation-contre-les-membres-de-la-france-insoumise/)
 - [CLPRESS: RIMA HASSAN - Conférence de presse suite à sa garde à vue pour Apologie du Terrorisme (1h20)](https://youtu.be/HBJzRkx_7T0?t=2382)
 - [PaduTeam: RIMA HASSAN : DR0GUE, GARDE À VUE, LOI YADAN !](https://www.youtube.com/watch?v=ggMtsfLNACo)
+- [Blast: Cher Paul Larrouturou - Boxing Day #76](https://www.blast-info.fr/articles/2026/cher-paul-larrouturou-boxing-day-76-T7-_CXXBRZ2mMWEi8YJpbA)
