@@ -13,6 +13,7 @@ excerpt: "L'ignorance, c'est la force"
 - [ELUCID: VOUS ALLEZ AIMER LA GUERRE ! Comment la propagande détraque notre esprit et « nos valeurs » (49min)](https://www.youtube.com/watch?v=gnJjhMwHVtU)  
 - [Pierre Bourdieu. Sur la télévision (49min)](https://www.youtube.com/watch?v=vcc6AEpjdcY&list=PL9wRd30yET41nv0KAtTXN2hkGMYm37nfJ&index=2)
 - [Chomsky, les médias et les illusions nécessaires (2h47)](https://www.youtube.com/watch?v=EGAyoXtat-s)
+- [Le Canard Réfractaire: Médiarcelement (12min)](https://www.youtube.com/watch?v=ZkyqJRR6LgY)
 
 ## Médias
 - [ACRIMED](https://www.acrimed.org/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@acrimedvideos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://mamot.fr/@acrimed)  
