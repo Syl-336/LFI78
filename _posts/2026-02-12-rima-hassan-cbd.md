@@ -16,6 +16,7 @@ excerpt: Harcèlement médiatique et polique contre Rima Hassan
 - [Blast: Cher Paul Larrouturou - Boxing Day #76](https://www.blast-info.fr/articles/2026/cher-paul-larrouturou-boxing-day-76-T7-_CXXBRZ2mMWEi8YJpbA)
 
 # [Rima Hassan](https://linktr.ee/rimahassanmobarak) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@RimaHass/videos) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](t.me/RimaHass)
+- [L'émotion de Rima Hassan qui évoque son harcèlement chez ‪@ParolesDHonneur‬ (7min)](https://www.youtube.com/watch?v=Pq1gVpyBK6M)
 - [Blast: RIMA HASSAN : "ISRAËL A UNE LOGIQUE D'APARTHEID À L'ÉGARD DES PALESTINIENS" (21min)](https://www.youtube.com/watch?v=fK6_kozSNVQ)
 - [Les Répliques: Rima Hassan : "la loi Yadan est une manipulation politique" (33min)](https://www.youtube.com/watch?v=Ype85hg2iBA)
 - [Blast: RIMA HASSAN : "LES PALESTINIENS N'ACCEPTERONT PAS DE SE LAISSER DIRIGER, SURTOUT APRÈS UN GÉNOCIDE" (46min)](https://www.youtube.com/watch?v=nBaNRVIDMLQ)
