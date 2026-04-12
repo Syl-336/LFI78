@@ -31,4 +31,5 @@ excerpt: "L'ignorance, c'est la force"
 - [FOCUS: Les sondages nous manipulent-t-ils ? - Dézoom (11min)](https://www.youtube.com/watch?v=fxG6O53lrz0)
 - [ACRIMED: En finir avec les faux débats sur les sondages ?](https://www.acrimed.org/En-finir-avec-les-faux-debats-sur-les-sondages)
 - [ACRIMED: Sondages](https://www.acrimed.org/+-Sondages-+)
+- [ILB: L’opinion fabriquée : dans les coulisses des sondages.](https://institutlaboetie.fr/lopinion-fabriquee-dans-les-coulisses-des-sondages/)
 - [L'Insoumission: Victoire du Nouveau Front Populaire – 27 sondages sur 27 ont menti à 100 %](https://linsoumission.fr/2024/07/08/victoire-nfp-sondages-ont-menti/)
