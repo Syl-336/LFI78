@@ -10,6 +10,9 @@ excerpt: "Mettre fin au capitalisme ? Faudra m'expliquer ce qu'on met à la plac
 - [Léo: MALAISE chez les ECOLOS, un naufrage en DOUCEUR (35min)](https://www.youtube.com/watch?v=WisI7CZQ7Tc)
 - [Contretemps: Écologie de guerre. Le grand alignement militariste de l’écologie libérale.](https://www.contretemps.eu/ecologie-guerre-grand-alignement-militariste-ecologie-liberale/)
 - [Reporterre: Marine Tondelier à un dîner lié à l’extrême droite catholique : la gêne persiste chez Les Écologistes.](https://reporterre.net/Marine-Tondelier-a-un-diner-catholique-lie-a-l-extreme-droite-la-gene-persiste-chez-Les-Ecologistes)  
+- [Blocage des prix - Marine Tondelier 2026 vs 2024 vs 2022](https://www.youtube.com/watch?v=Dh4ryo1fj_w)
+- [Glupatate: Championne de France du retournement de veste.](https://www.youtube.com/shorts/sdbiZqhrljs)
+- [Glupatate: Comment se porte la démocratie interne chez Marine Tondelier ? 🫢](https://www.youtube.com/shorts/64pKW877zpI)
 
 ## Capitalisme
 
