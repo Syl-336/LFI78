@@ -35,3 +35,5 @@ excerpt: "L'ignorance, c'est la force"
 - [ACRIMED: En finir avec les faux débats sur les sondages ?](https://www.acrimed.org/En-finir-avec-les-faux-debats-sur-les-sondages)
 - [ACRIMED: Sondages](https://www.acrimed.org/+-Sondages-+)
 - [L'Insoumission: Victoire du Nouveau Front Populaire – 27 sondages sur 27 ont menti à 100 %](https://linsoumission.fr/2024/07/08/victoire-nfp-sondages-ont-menti/)
+- [BonPote: Instituts de sondage : l’opinion sous influence.](https://bonpote.com/instituts-de-sondage-opinion-manipulation/)
+- [JLM: 100% des sondages mentent-ils ?](https://melenchon.fr/2026/04/23/100-des-sondages-mentent-ils/)

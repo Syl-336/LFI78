@@ -24,6 +24,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [La sobriété : un impératif écologique et solidaire](https://www.greenpeace.fr/sobriete-ecologique-solidaire/)  
 - [Quels nouveaux récits pour le XXIe siècle turbulent ?](https://blogs.mediapart.fr/carta-academica/blog/160924/quels-nouveaux-recits-pour-le-xxie-siecle-turbulent)  
 - [LIMIT: l'Europe pourrait se refroidir pendant que la Terre brûle ? l'AMOC (24min)](https://www.youtube.com/watch?v=cwyOEe7qzKU)  
+- [What Is: The Capitalocene.](https://www.sflorg.com/2026/01/wi01042601.html?m=1)
 
 ### Ressources
 

@@ -5,6 +5,7 @@ categories: [politique]
 excerpt: Recueil des trahisons du PS.
 ---
 
+- [Bilan-PS.fr](https://www.bilan-ps.fr/)
 - [Hors-Série: Annuler LFI : le dangereux fantasme du PS.](https://www.hors-serie.net/annuler-lfi-le-dangereux-fantasme-du-ps/)
 - [Hors-Série: Municipales 2026 : l’élan et la poisse.](https://www.hors-serie.net/municipales-2026-lelan-et-la-poisse/)
 - [Contre-Attaque: Le Parti Socialiste n’a pas trahi, il est juste fidèle à son histoire.](https://contre-attaque.net/2025/10/16/le-parti-socialiste-na-pas-trahi-il-est-juste-fidele-a-son-histoire-2/)
@@ -22,6 +23,7 @@ excerpt: Recueil des trahisons du PS.
 - [Contre-Attaque: Le Parti Socialiste : marchepied du fascisme](https://contre-attaque.net/2026/02/23/le-parti-socialiste-marchepied-du-fascisme/)
 - [PaduTeam: HOLLANDE CONTRE-ATTAQUE : "MÉLENCHON NE SERA PAS AU 2ÈME TOUR" !!](https://www.youtube.com/watch?v=BaoHrF9zy24)
 - [Politis: La gauche de Hollande préfère la défaite.](https://www.politis.fr/articles/2026/03/la-gauche-de-hollande-prefere-la-defaite/)
+- [Clément Viktorovitch: Hollande 2027 ? J'analyse son interview CATASTROPHIQUE dans Marianne](https://www.youtube.com/watch?v=aWm3lBA8Obc)
 
 ## Olivier Faure
 
