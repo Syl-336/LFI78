@@ -37,3 +37,10 @@ excerpt: "L'ignorance, c'est la force"
 - [L'Insoumission: Victoire du Nouveau Front Populaire – 27 sondages sur 27 ont menti à 100 %](https://linsoumission.fr/2024/07/08/victoire-nfp-sondages-ont-menti/)
 - [BonPote: Instituts de sondage : l’opinion sous influence.](https://bonpote.com/instituts-de-sondage-opinion-manipulation/)
 - [JLM: 100% des sondages mentent-ils ?](https://melenchon.fr/2026/04/23/100-des-sondages-mentent-ils/)
+
+## critiques de Conspiracy Watch
+
+- [ELUCID: FACT CHECKERS et TRAQUEURS DE COMPLOTISTES : L'idéologie derrière la chasse aux sorcières (1h40)](https://www.youtube.com/watch?v=RzBaWFDikAw)
+- [Blast: dossier sur Conspiracy Watch.](https://www.blast-info.fr/dossiers/conspiracy-watch-Qx4TEbP8QIWoOnU-VRVJsw)
+- [ACRIMED: Quand les « complotologues » de Franceinfo font l'impasse sur la principale théorie du complot de l'ère Trump.](https://www.acrimed.org/Quand-les-complotologues-de-Franceinfo-font-l)
+- [Investig'Action: Conspiracy Watch : Qui est complotiste ?](https://investigaction.net/conspiracy-watch-qui-est-complotiste/)
