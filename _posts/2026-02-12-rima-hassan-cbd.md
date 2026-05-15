@@ -5,6 +5,7 @@ categories: [politique, medias, polemique]
 excerpt: Harcèlement médiatique et polique contre Rima Hassan
 ---
 
+- [Glupatate: Rima Hassan : quand le mensonge prend l'ascenseur, la vérité prend l'escalier. 🇵🇸✌](https://www.youtube.com/shorts/_l6fM-26eSM)
 - [L'Insoumission: Rima Hassan placée en garde à vue – Les amis français de Netanyahu s’acharnent pour censurer les voix contre le génocide.](https://linsoumission.fr/2026/04/02/rima-hassan-garde-a-vue/)
 - [ACRIMED: Rima Hassan et « la drogue » : fiasco médiatique, apothéose du journalisme policier.](https://www.acrimed.org/Rima-Hassan-et-la-drogue-fiasco-mediatique) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/watch?v=AKD31CUSa7k)
 - [ACRIMED: Rima Hassan et « la drogue » (2) : désinformation de Franc-Tireur et LCI.](https://www.acrimed.org/Rima-Hassan-et-la-drogue-2-desinformation-de)

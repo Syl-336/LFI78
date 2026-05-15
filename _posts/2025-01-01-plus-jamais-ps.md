@@ -15,6 +15,8 @@ excerpt: Recueil des trahisons du PS.
 - [Mediapart: Parti socialiste - Naissance du Cercle socialiste des ami·e·s d’Israël.](https://blogs.mediapart.fr/arnaudf92/blog/290425/parti-socialiste-naissance-du-cercle-socialiste-des-ami-e-s-d-israel)
 - [La Brèche: PS : 40 ANS DE TRAHISON ! (Saïd Bouamama, Nicolas Da Silva, Stefano Palombarini, Dr Zoé)](https://www.youtube.com/watch?v=sLYHEdLguVc)
 - [Fakir (9 ans): quand Ruffin appelait à ne plus voter PS...](https://www.youtube.com/watch?v=QJQm69F8NPw)
+- [Contre-Attaque: Pourquoi le Parti Socialiste est-il chahuté à chaque 1er Mai ?](https://contre-attaque.net/2026/05/05/pourquoi-le-parti-socialiste-est-il-chahute-a-chaque-1er-mai/)
+- [Jérôme Guedj, la rose des médias, aura été l'invité de BFMTV TF1 sur la même journée (04/05/2026) pour parler de LFI (entre autres)](https://www.reddit.com/r/FranceDigeste/comments/1t463h1/j%C3%A9r%C3%B4me_guedj_la_rose_des_m%C3%A9dias_aura_%C3%A9t%C3%A9_linvit%C3%A9/)
 
 ## François Hollande
 
@@ -31,6 +33,7 @@ excerpt: Recueil des trahisons du PS.
 - [Olivier Faure et le 49.3, compilation des renoncements du Parti socialiste.](https://x.com/L_insoumission/status/2013651420780597298)
 - [Glupatate: uand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
 - [Le Monde: Olivier Faure assure qu’il « n’y aura pas d’accord national » entre le PS et LFI pour la présidentielle et les législatives de 2027.](https://www.lemonde.fr/politique/article/2026/03/27/olivier-faure-assure-qu-il-n-y-aura-pas-d-accord-national-entre-le-ps-et-lfi-pour-la-presidentielle-et-les-legislatives-de-2027_6674448_823448.html)
+- [Glupatate: Olivier Faure INCAPABLE de porter une mesure de gauche ?!](https://www.youtube.com/shorts/QhLAUiBNLEA)
 ## Gouvernement Lecornu
 
 - [Radio Nova: Comme d’habitude - La chronique de Pierre-Emmanuel Barré](https://www.youtube.com/watch?v=bV204jL04SQ)
