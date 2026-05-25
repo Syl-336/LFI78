@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capitalisme, impérialisme, suprémaciste et techno-féodalisme.
-categories: [politique]
+categories: [politique, ia]
 excerpt: Les relations entre ces différents concepts.
 ---
 
