@@ -22,3 +22,5 @@ excerpt: Un autre Macron est possible.
 - [A Gauche/Libre Insolent: Montage Macron/Glucksmann.](https://www.youtube.com/watch?v=MiUer9npVKs)  
 - [A Gauche: Glucksmann contre le PS.](https://www.youtube.com/watch?v=hORyBjn3j3c)  
 - [Le naufrage de Glucksmann « Le grand espoir de la gauche » coule avant le départ.](https://www.youtube.com/shorts/oyjVJ90zYM0)
+- [Glucksmann se fait RIDICULISER par les journalistes après son passage sur TF1 😂](https://www.youtube.com/shorts/uGWHKzXto-I)
+- [Glucksmann perd un débat face à une photo de Mélenchon](https://www.youtube.com/shorts/FS1Slb1wPZY)
