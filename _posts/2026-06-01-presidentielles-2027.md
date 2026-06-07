@@ -5,7 +5,7 @@ categories: [politique]
 excerpt: Votez Mélenchon !
 ---
 
-- [Mélenchon 2027](https://melenchon2027.fr/)
+- [🐢 Mélenchon 2027 🐢](https://melenchon2027.fr/)
 - [BadMulch: Pourquoi le peuple a perdu en 2022](https://badmulch.fr/pourquoi-le-peuple-a-perdu-en-2022/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@BadMulch/videos)
   - [Apprendre De 2022: L'Effet Spoiler (37min)](https://www.youtube.com/watch?v=CHq_Lu4OBZk)
   - [La Fabrique De La Défaite Aux Présidentielles (44min)](https://www.youtube.com/watch?v=0DWePHyYitM)
