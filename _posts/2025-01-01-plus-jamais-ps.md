@@ -32,7 +32,7 @@ excerpt: Recueil des trahisons du PS.
 
 - [Quel cap pour le PS ? Olivier Faure face à l'Huma - ÇA IRA !](https://www.youtube.com/watch?v=ppZTLJKWgrM)  
 - [Olivier Faure et le 49.3, compilation des renoncements du Parti socialiste.](https://x.com/L_insoumission/status/2013651420780597298)
-- [Glupatate: uand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
+- [Glupatate: quand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
 - [Le Monde: Olivier Faure assure qu’il « n’y aura pas d’accord national » entre le PS et LFI pour la présidentielle et les législatives de 2027.](https://www.lemonde.fr/politique/article/2026/03/27/olivier-faure-assure-qu-il-n-y-aura-pas-d-accord-national-entre-le-ps-et-lfi-pour-la-presidentielle-et-les-legislatives-de-2027_6674448_823448.html)
 - [Glupatate: Olivier Faure INCAPABLE de porter une mesure de gauche ?!](https://www.youtube.com/shorts/QhLAUiBNLEA)
 ## Gouvernement Lecornu
