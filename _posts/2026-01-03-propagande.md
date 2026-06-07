@@ -37,6 +37,7 @@ excerpt: "L'ignorance, c'est la force"
 - [L'Insoumission: Victoire du Nouveau Front Populaire – 27 sondages sur 27 ont menti à 100 %](https://linsoumission.fr/2024/07/08/victoire-nfp-sondages-ont-menti/)
 - [BonPote: Instituts de sondage : l’opinion sous influence.](https://bonpote.com/instituts-de-sondage-opinion-manipulation/)
 - [JLM: 100% des sondages mentent-ils ?](https://melenchon.fr/2026/04/23/100-des-sondages-mentent-ils/)
+- [PRAXIS: Comment les sondages manipulent le duel Mélenchon / Bardella pour la présidentielle 2027 (25min)](https://www.youtube.com/watch?v=v7wHJ0pB0e8)
 
 ## Critiques de Conspiracy Watch
 
