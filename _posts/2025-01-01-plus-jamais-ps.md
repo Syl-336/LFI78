@@ -35,6 +35,7 @@ excerpt: Recueil des trahisons du PS.
 - [Glupatate: quand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
 - [Le Monde: Olivier Faure assure qu’il « n’y aura pas d’accord national » entre le PS et LFI pour la présidentielle et les législatives de 2027.](https://www.lemonde.fr/politique/article/2026/03/27/olivier-faure-assure-qu-il-n-y-aura-pas-d-accord-national-entre-le-ps-et-lfi-pour-la-presidentielle-et-les-legislatives-de-2027_6674448_823448.html)
 - [Glupatate: Olivier Faure INCAPABLE de porter une mesure de gauche ?!](https://www.youtube.com/shorts/QhLAUiBNLEA)
+- [Avant le 2ème tour des législatives en 2024, Olivier Faure voulait déjà trahir le NFP, en s'alliant avec Gabriel Attal.](https://piaille.fr/@Ds03/116701706217399567)
 ## Gouvernement Lecornu
 
 - [Radio Nova: Comme d’habitude - La chronique de Pierre-Emmanuel Barré](https://www.youtube.com/watch?v=bV204jL04SQ)

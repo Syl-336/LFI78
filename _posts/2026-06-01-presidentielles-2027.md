@@ -29,6 +29,7 @@ excerpt: Votez Mélenchon !
 
 ## La Gôche
 
+- [Éthique et tac: Les clowns de la gauche - 4 séquences déjà cultes](https://www.youtube.com/watch?v=AWC1Ge8EFIo)
 - [Blast: 🦏 MOINS CLIVANTE, TOUJOURS NAVRANTE : À QUOI SERT LA "GAUCHE" NON-MÉLENCHONISTE ? (21min)](https://www.youtube.com/watch?v=lwkOjGsz9mE)
 - [Canard Réfractaire: Le BAL DES ESCROCS pour succéder à MACRON ! 🤡 (9min)](https://www.youtube.com/watch?v=zBft1S5D-hM)
 - [PRIMAIRE DE LA GAUCHE : LA PLUS GRANDE ANNONCE DE L’ANNÉE ! (46min)](https://www.youtube.com/watch?v=OYgG0a_EiGo)
@@ -46,6 +47,7 @@ excerpt: Votez Mélenchon !
   - [Ça ira ! Pour Ruffin, pas de génocide à Gaza.](https://www.youtube.com/shorts/FhX_ronxxAQ)
   - [Ruffin s'exprime ENFIN sur sa BD !!](https://www.youtube.com/shorts/PHd81ydV_qc)
 - [**Marine Tondelier:**]({{ site.baseurl }}{% link _posts/2025-01-01-les-ecolos.md %})
+  - [L’astuce de Marine Tondelier pour être candidate à la présidentielle même en cas d’échec de la primaire.](https://www.huffingtonpost.fr/politique/article/l-astuce-de-marine-tondelier-pour-etre-candidate-a-la-presidentielle-meme-en-cas-d-echec-de-la-primaire_264660.html)
   - [Démonstration du naufrage de EELV avec Marine Tondolier - Montage Alexandre Jaafari](https://www.youtube.com/watch?v=poEkfb2g11I)
   - [La cheffe d'EELV sur le capitalisme.](https://www.youtube.com/watch?v=Fu-DiJX85H0)
   - [Blocage des prix - Marine Tondelier 2026 vs 2024 vs 2022](https://www.youtube.com/watch?v=Dh4ryo1fj_w)
