@@ -13,6 +13,7 @@ excerpt: "Mettre fin au capitalisme ? Faudra m'expliquer ce qu'on met à la plac
 - [Blocage des prix - Marine Tondelier 2026 vs 2024 vs 2022](https://www.youtube.com/watch?v=Dh4ryo1fj_w)
 - [Glupatate: Championne de France du retournement de veste.](https://www.youtube.com/shorts/sdbiZqhrljs)
 - [Glupatate: Comment se porte la démocratie interne chez Marine Tondelier ? 🫢](https://www.youtube.com/shorts/64pKW877zpI)
+- [A Gauche: The Authoritarian Drift of EELV (Edit)](https://www.youtube.com/watch?v=n0z-3l4-j8E)
 
 ## Capitalisme
 
