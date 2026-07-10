@@ -49,6 +49,7 @@ excerpt: Votez Mélenchon !
 - [**Olivier Faure:**]({{ site.baseurl }}{% link _posts/2025-01-01-plus-jamais-ps.md %})
   - [Quand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
   - [Olivier Faure INCAPABLE de porter une mesure de gauche ?!](https://www.youtube.com/shorts/QhLAUiBNLEA)
+  - [Présidentielle 2027 : le Parti socialiste a tranché et voté pour une primaire "fermée", un désaveu pour son premier secrétaire Olivier Faure, partisan d’une primaire plus ouverte.](https://www.ladepeche.fr/2026/07/10/presidentielle-2027-le-parti-socialiste-a-tranche-et-vote-pour-une-primaire-fermee-un-desaveu-pour-son-premier-secretaire-olivier-faure-partisan-dune-13462752.php)
 - [**François Ruffin:**]({{ site.baseurl }}{% link _posts/2025-01-01-ruffin.md %})
   - [Ça ira ! Pour Ruffin, pas de génocide à Gaza.](https://www.youtube.com/shorts/FhX_ronxxAQ)
   - [Ruffin s'exprime ENFIN sur sa BD !!](https://www.youtube.com/shorts/PHd81ydV_qc)
