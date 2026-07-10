@@ -6,6 +6,7 @@ excerpt: Votez Mélenchon !
 ---
 
 - [**🐢 Mélenchon 2027 🐢**](https://melenchon2027.fr/)
+- [Parrainages](https://lafranceinsoumise.fr/2026/06/22/parrainages-elus-pour-election-presidentielle-2027/)
 - [BadMulch: Pourquoi le peuple a perdu en 2022](https://badmulch.fr/pourquoi-le-peuple-a-perdu-en-2022/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@BadMulch/videos)
   - [Apprendre De 2022: L'Effet Spoiler (37min)](https://www.youtube.com/watch?v=CHq_Lu4OBZk)
   - [La Fabrique De La Défaite Aux Présidentielles (44min)](https://www.youtube.com/watch?v=0DWePHyYitM)
@@ -27,11 +28,16 @@ excerpt: Votez Mélenchon !
 - [Européennes 2024](https://reporterre.net/Elections-europeennes-notre-analyse-ecolo-des-programmes)  
 - [BonPote: Pour qui faut-il voter à l’élection présidentielle 2022 ?](https://bonpote.com/pour-qui-faut-il-voter-a-lelection-presidentielle-2022/)
 
+## Propagande anti-Mélenchon
+- [Blast/Acrimed: LES MÉDIAS CONTRE MÉLENCHON : 15 ANS À DIABOLISER LA GAUCHE (1h56)](https://www.youtube.com/watch?v=NrWl84bQRPY)
+- [Acrimed: Les Unes de la presse écrite contre Mélenchon et LFI.](https://www.acrimed.org/Les-Unes-de-la-presse-ecrite-contre-Melenchon-et)
+
 ## La Gôche
 
 - [Éthique et tac: Les clowns de la gauche - 4 séquences déjà cultes](https://www.youtube.com/watch?v=AWC1Ge8EFIo)
 - [Blast: 🦏 MOINS CLIVANTE, TOUJOURS NAVRANTE : À QUOI SERT LA "GAUCHE" NON-MÉLENCHONISTE ? (21min)](https://www.youtube.com/watch?v=lwkOjGsz9mE)
 - [Canard Réfractaire: Le BAL DES ESCROCS pour succéder à MACRON ! 🤡 (9min)](https://www.youtube.com/watch?v=zBft1S5D-hM)
+- [Canard Réfractaire: MÉLENCHON DÉCHIRE la GAUCHE ? VRAIMENT ?](https://www.youtube.com/watch?v=vAd5FVgzatA)
 - [PRIMAIRE DE LA GAUCHE : LA PLUS GRANDE ANNONCE DE L’ANNÉE ! (46min)](https://www.youtube.com/watch?v=OYgG0a_EiGo)
 - [PaduTeam: LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE (épisode 263) (48min)](https://www.youtube.com/watch?v=AMR2w32OkmU)
 - [**Raphaël Glucksmann:**]({{ site.baseurl }}{% link _posts/2025-01-01-glucksmann.md %})

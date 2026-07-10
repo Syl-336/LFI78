@@ -27,6 +27,9 @@ excerpt: "L'ignorance, c'est la force"
 ## Articles
 - [Blast, tribune du sociologue Didier Éribon: Des nouvelles des nouveaux chiens de garde.](https://www.blast-info.fr/articles/2026/des-nouvelles-des-nouveaux-chiens-de-garde-ndFQOS1DR6mCclVBExRlNg)
 
+## Ecologie
+- [BonPote: Climat : des médias complices de l'inaction (15min)](https://www.youtube.com/watch?v=GvDkq6IRNKw)
+
 ## Les sondages
 - [ILB: L’opinion fabriquée : dans les coulisses des sondages.](https://institutlaboetie.fr/lopinion-fabriquee-dans-les-coulisses-des-sondages/)
 - [Blast: 🦏 SONDAGES D'OPINION : L'OVERDOSE (21min)](https://www.youtube.com/watch?v=PVMDpBpMcgI)

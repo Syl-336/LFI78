@@ -18,6 +18,7 @@ excerpt: Un autre Macron est possible.
 - [Contre-Attaque: Glucksmann ou le comique involontaire.](https://contre-attaque.net/2026/03/24/glucksmann-ou-le-comique-involontaire/)
 - [Contre-Attaque](https://contre-attaque.net/2026/05/14/raphael-glucksmann-candidat-des-riches/), [L'Insoumission: Les documents stratégiques de Glucksmann ou le macronisme 2.0 contre l’arrivée de Mélenchon au pouvoir](https://linsoumission.fr/2026/05/14/glucksmann-contre-melenchon/)
 - [Canard Réfractaire: Le NAUFRAGE GLUCKSMANN en DIRECT ! 😂](https://www.youtube.com/watch?v=U_s4AynX1cw)
+- [Le Monde: Aurélien Rousseau, directeur de campagne de Raphaël Glucksmann, quitte ses fonctions.](https://www.lemonde.fr/politique/article/2026/06/24/aurelien-rousseau-quitte-la-campagne-de-raphael-glucksmann_6713235_823448.html)
 
 ## Memes
 - [A Gauche/Libre Insolent: Montage Macron/Glucksmann.](https://www.youtube.com/watch?v=MiUer9npVKs)  
@@ -26,3 +27,4 @@ excerpt: Un autre Macron est possible.
 - [Glucksmann se fait RIDICULISER par les journalistes après son passage sur TF1 😂](https://www.youtube.com/shorts/uGWHKzXto-I)
 - [Glucksmann perd un débat face à une photo de Mélenchon](https://www.youtube.com/shorts/FS1Slb1wPZY)
 - [Personne ne veut d'un Macron 2. Même arrogance, même cynisme, mêmes mauvais coups.](https://www.youtube.com/shorts/ZB8zJfuRsdg)
+- [Glucksmann a des PTSD dès qu'on parle de Mélenchon 🤣](https://www.youtube.com/shorts/KLXg2Sg3h9A)
