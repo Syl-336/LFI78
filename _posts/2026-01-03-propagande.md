@@ -22,7 +22,9 @@ excerpt: "L'ignorance, c'est la force"
   - [Rhinocéros](https://www.youtube.com/watch?v=-EKqiH9ceoc&list=PLv1KZC6gJTFkFmZmlejLN6qyV7gvcmXwd)
   - [4ème pouvoir avec ACRIMED](https://www.youtube.com/playlist?list=PLv1KZC6gJTFk2ITJmLvLnyL6d8XIcj1NO)
   - [Le ZAP](https://www.youtube.com/playlist?list=PLv1KZC6gJTFnckgNteHy8GuYo8UezBJpW)
-- [ELUCID: REVUE DE PRESSE - Syndrome de la page 27](https://www.youtube.com/playlist?list=PLP7NM2PkDfTgbN9SXugiA22Zw8W_n9Ojy)
+- [ELUCID](https://elucid.media/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@ElucidMedia) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://indymotion.fr/c/elucid_media/videos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://indymotion.fr/@elucid):
+  - [REVUE DE PRESSE - Syndrome de la page 27](https://www.youtube.com/playlist?list=PLP7NM2PkDfTgbN9SXugiA22Zw8W_n9Ojy)
+  - [CHRONIQUES DUO](https://www.youtube.com/playlist?list=PLP7NM2PkDfTj2UbmFWdcAmaiKTFnPar-a)
 
 ## Articles
 - [Blast, tribune du sociologue Didier Éribon: Des nouvelles des nouveaux chiens de garde.](https://www.blast-info.fr/articles/2026/des-nouvelles-des-nouveaux-chiens-de-garde-ndFQOS1DR6mCclVBExRlNg)
