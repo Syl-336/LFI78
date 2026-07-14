@@ -9,7 +9,7 @@ excerpt: Faut-il construire des centrales nucléaires ?
 
 Face à l'urgence climatique, le nucléaire est souvent présenté comme le sauveur providentiel, une solution miracle capable de décarboner nos vies sans que nous n'ayons à changer nos habitudes. Pourtant, derrière la promesse d'une énergie abondante se cachent des réalités techniques, temporelles, environnementales et politiques qui font du nucléaire une dangereuse fausse bonne idée.
 
-## Une complexité technologique et temporelle hors de contrôle
+### Une complexité technologique et temporelle hors de contrôle
 
 Vouloir baser notre transition énergétique sur le nucléaire, c'est faire le choix de l'extrême complexité. Construire, exploiter et démanteler une centrale nucléaire exige des compétences d'une technicité rare et une logistique d'une lourdeur incomparable. Cette complexité se traduit inévitablement par un ennemi majeur dans la lutte contre le réchauffement climatique : **le temps**.
 
@@ -18,7 +18,7 @@ Vouloir baser notre transition énergétique sur le nucléaire, c'est faire le c
 
 ---
 
-## Le mirage technologique face à la pénurie de ressources et la dépendance géopolitique
+### Le mirage technologique face à la pénurie de ressources et la dépendance géopolitique
 
 Même en imaginant que nous puissions surmonter ces délais, un autre mur se dresse devant nous : **la limite physique des ressources**.
 
@@ -31,7 +31,7 @@ De plus, loin de garantir l'indépendance énergétique tant vantée, le nucléa
 
 ---
 
-## La poudrière environnementale : l'insoluble gestion des déchets
+### La poudrière environnementale : l'insoluble gestion des déchets
 
 L'un des arguments les plus fallacieux des partisans de l'atome est de qualifier cette énergie de « propre ». Le nucléaire déplace la crise écologique de l'atmosphère vers le sous-sol et les océans en générant des déchets toxiques pour des millénaires.
 
@@ -40,7 +40,7 @@ L'un des arguments les plus fallacieux des partisans de l'atome est de qualifier
 
 ---
 
-## L'atome comme « opium du capitalisme » et le triomphe des lobbies
+### L'atome comme « opium du capitalisme » et le triomphe des lobbies
 
 Pourquoi l'État s'obstine-t-il dans cette voie malgré ses impasses ? Parce que le nucléaire sert d'alibi idéal pour maintenir à flot le modèle capitaliste productiviste.
 
@@ -50,7 +50,7 @@ Pour maintenir ce dogme, l'industrie déploie une influence colossale. Les lobbi
 
 ---
 
-## Conclusion : Choisir la sobriété plutôt que la fuite en avant
+### Conclusion : Choisir la sobriété plutôt que la fuite en avant
 
 Le nucléaire n'est pas la clé de voûte de la transition, mais plutôt le verrou politique et financier qui nous empêche d'amorcer un véritable changement de paradigme. Au lieu de s'obstiner dans une technologie centralisée, ultra-complexe, génératrice de déchets éternels et dépendante de ressources étrangères critiques, la véritable urgence est ailleurs.
 
@@ -58,7 +58,7 @@ Il est temps de détruire le mirage technologique entretenu par les lobbies pour
 
 ---
 
-## Sources
+### Sources
 
 [^1]: [Frustration Magazine: Nucléaire : l’opium des capitalistes – Chroniques de l’écologie bourgeoise par Clément Sénéchal](https://frustrationmagazine.fr/nucleaire-opium-capitalistes-chroniques-ecologie-bourgeoise-clement-senechal/)
 [^2]: [Les Echos: Nucléaire : le rapport qui gênait Nicolas Hulot.](https://www.lesechos.fr/industrie-services/energie-environnement/exclusif-nucleaire-le-rapport-qui-genait-nicolas-hulot-137634)
