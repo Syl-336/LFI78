@@ -7,10 +7,10 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 
 ## En résumé
 - [LIMIT: La Fin Du Monde ? Wtf! - Jancovici, Servigne, Massonnet, R.diallo, Meadows (22min)](https://www.youtube.com/watch?v=ivSM8lCAItM)  
-- [Notre civilisation ne va pas droit dans le mur, c'est pire - Pablo Servigne (10min)](https://indymotion.fr/w/dZvRjU1DMiadcwZ4HxvJ7g)  
-- [La cause primaire de la crise écologique - Arthur Keller (12min)](https://indymotion.fr/w/324299a6-0292-4d68-9b4b-a458ff9f9b59)  
 - [Jancovici: "Il y a un risque que les importations de pétrôle en Europe soient divisées par 10 d'ici 2050" (9min)](https://indymotion.fr/w/a5iyPwXobAUwY1EZ4MnFDB)
 - [Olivier Hamant: "On va passer le pic de cuivre en 2040" (9min)](https://indymotion.fr/w/4UA9mEPNybXG482qPcT7FL)
+- [Notre civilisation ne va pas droit dans le mur, c'est pire - Pablo Servigne (10min)](https://indymotion.fr/w/dZvRjU1DMiadcwZ4HxvJ7g)  
+- [La cause primaire de la crise écologique - Arthur Keller (12min)](https://indymotion.fr/w/324299a6-0292-4d68-9b4b-a458ff9f9b59)  
 
 ## En détail
 - [Christophe Cassou: "Au delà de +2°C, le système d'assurance s’écroule."](https://twitter.com/cassouman40/status/1678514621248831488)  
