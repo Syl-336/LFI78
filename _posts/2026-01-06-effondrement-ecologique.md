@@ -47,7 +47,8 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Ilian Moundib sur LIMIT: Peut-on vraiment s’adapter au chaos climatique ? (1h50)](https://www.youtube.com/watch?v=xQx_PuPqQdw)
 - [Olivier Hamant: En 2040, on aura changé de monde (26min)](https://www.youtube.com/watch?v=6jg1xd4X84s)  
 - [Clément Sénéchal: Pourquoi l'écologie perd toujours (1h14)](https://www.youtube.com/watch?v=_Ex-yP5Eg7Q), [livre](https://www.seuil.com/ouvrage/pourquoi-l-ecologie-perd-toujours-clement-senechal/9782021508208), [Frustration Magazine](https://www.frustrationmagazine.fr/ecologie-perd/)  
-- [Jean-Baptiste Fressoz sur ELUCID: Crise énergétique : s’adapter au nouveau monde, ou périr (1h34)](https://indymotion.fr/w/eB9GXNRwkKuCD1ZzBHGaax)  
+- [Jean-Baptiste Fressoz sur ELUCID: Crise énergétique : s’adapter au nouveau monde, ou périr (1h34)](https://indymotion.fr/w/eB9GXNRwkKuCD1ZzBHGaax)
+- [Pierre-Yves Longaretti: Le capitalisme va-t-il s'effondrer en 2035 ?](https://www.youtube.com/watch?v=bDXOQ1hL8po)
 - [Monique Pinçon-Charlot sur OFF-Investigation: « Un État aux mains des plus riches pour les plus riches » (23min)](https://www.youtube.com/watch?v=ru8LCxH7fbY)  
 - [Nicolas Framont sur ELUCID: De Macron au RN, les PARASITES sont prêts à TOUT pour maintenir leurs INTÉRÊTS (1h30)](https://indymotion.fr/w/rS1YnYQ4ZYRhUS4jbuCqnk)  
 - [Nicolas Framont: Luigi Mangione, les bourgeois et le 10 septembre (2h07)](https://www.youtube.com/watch?v=ycy-7PIFiV0)
@@ -81,6 +82,12 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Plutôt la fin du monde que la fin du capitalisme](https://contre-attaque.net/2025/01/16/plutot-la-fin-du-monde-que-la-fin-du-capitalisme/)  
 - [BonPote: Limiter le réchauffement planétaire à +1.5°C n’est désormais plus possible](https://bonpote.com/limiter-le-rechauffement-planetaire-a-1-5c-nest-desormais-plus-possible-les-promesses-sont-officiellement-des-mensonges/)  
 - [BonPote: La 7e limite planétaire est officiellement dépassée : l’acidification des océans](https://bonpote.com/la-7e-limite-planetaire-est-officiellement-depassee-lacidification-des-oceans/)  
+
+## 2026
+- [BonPote: Le bilan catastrophique de Macron : synthèse du rapport annuel 2026 du Haut Conseil pour le Climat.](https://bonpote.com/le-bilan-catastrophique-de-macron-synthese-du-rapport-annuel-2026-du-haut-conseil-pour-le-climat/)
+- [The Graph That Should Be Front-Page News](https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news)
+- [LIMIT: EL NIÑO : ON N’A JAMAIS VU ÇA ! (25min)](https://www.youtube.com/watch?v=MgEumZCpsVQ)
+- [LIMIT: PREPAREZ-VOUS À LA PROCHAINE CANICULE (24min)](https://www.youtube.com/watch?v=my6-AQLo5vs)
 
 ## Agir
 
