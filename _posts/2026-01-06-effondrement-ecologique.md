@@ -88,6 +88,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [The Graph That Should Be Front-Page News](https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news)
 - [LIMIT: EL NIÑO : ON N’A JAMAIS VU ÇA ! (25min)](https://www.youtube.com/watch?v=MgEumZCpsVQ)
 - [LIMIT: PREPAREZ-VOUS À LA PROCHAINE CANICULE (24min)](https://www.youtube.com/watch?v=my6-AQLo5vs)
+- [Frustration Mag: FOCUS : Après la canicule, quelle révolution ? (avec NICOLAS FRAMONT, 44min)](https://www.youtube.com/watch?v=nuZuRv9cdI4)
 
 ## Agir
 
