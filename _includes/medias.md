@@ -30,4 +30,5 @@
 [Paroles D'Honneur](https://www.youtube.com/@ParolesDHonneur) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://bird.makeup/@parolesdhonneur)  
 [Au Poste](https://www.auposte.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@au_poste) [![![peertube]({{ site.baseurl }}/images/icon-peertube.png)]({{ site.baseurl }}/images/icon-peertube.png)](https://video.davduf.net/) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://piaille.fr/@auposte)  
 [Le Vent Se Lève](https://lvsl.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@lvslmedia) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/lvslmedia) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://piaille.fr/@lvslmedia)  
-[Clément Viktorovich](https://clemovitch.com/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@Clemovitch)
+[Clément Viktorovich](https://clemovitch.com/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@Clemovitch)  
+[Comprendre et Agir](https://www.youtube.com/@ComprendreEtAgir/videos)
