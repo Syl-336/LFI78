@@ -52,31 +52,31 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Nicolas Framont sur ELUCID: De Macron au RN, les PARASITES sont prêts à TOUT pour maintenir leurs INTÉRÊTS (1h30)](https://indymotion.fr/w/rS1YnYQ4ZYRhUS4jbuCqnk)  
 - [Nicolas Framont: Luigi Mangione, les bourgeois et le 10 septembre (2h07)](https://www.youtube.com/watch?v=ycy-7PIFiV0)
 - [Comprendre et Agir:](https://www.youtube.com/@ComprendreEtAgir/videos)
-  - [Pierre-Yves Longaretti: Le capitalisme va-t-il s'effondrer en 2035 ?](https://www.youtube.com/watch?v=bDXOQ1hL8po)
-  - [Emmanuel PRADOS: Comprendre les phénomènes d’effondrement de sociétés. Quel avenir pour la nôtre ?](https://www.youtube.com/watch?v=1dgjIeR5DBY)
-  - [Paul GUILLIBERT: Marx avait-il raison sur l'écologie ?](https://www.youtube.com/watch?v=er_0d3T09cM)
-  - [Cédric DURAND: Vers une planification écologique forcée ?](https://www.youtube.com/watch?v=_kPzoPYxIOE)
+  - [Pierre-Yves Longaretti: Le capitalisme va-t-il s'effondrer en 2035 ? (53min)](https://www.youtube.com/watch?v=bDXOQ1hL8po)
+  - [Emmanuel PRADOS: Comprendre les phénomènes d’effondrement de sociétés. Quel avenir pour la nôtre ? (45min)](https://www.youtube.com/watch?v=1dgjIeR5DBY)
+  - [Paul GUILLIBERT: Marx avait-il raison sur l'écologie ? (53min)](https://www.youtube.com/watch?v=er_0d3T09cM)
+  - [Cédric DURAND: Vers une planification écologique forcée ? (49min)](https://www.youtube.com/watch?v=_kPzoPYxIOE)
 
 ## Documentaires
 - [L'homme a mangé la Terre (1h38)](https://peertube.stream/w/jLNTjBPwZFsDqsCTZGqaAi), [sur Arte](https://www.arte.tv/fr/videos/073938-000-A/l-homme-a-mange-la-terre/)  
 - [Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
 - [Un pays qui se tient sage (1h29)](https://peertube.stream/w/rh2cb3PiqnQLZgFnDFhjtu)  
 - [La Stratégie du Choc (1h16)](https://peertube.stream/w/grhJ9SDdHVtGhKGaSFYJHG)  
-- [Hacking Social: La France a peur.](https://www.youtube.com/watch?v=8WiiqssAME4)
+- [Hacking Social: La France a peur (43min)](https://www.youtube.com/watch?v=8WiiqssAME4)
 
 ## 2023
 - [Rapport du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/rapport-grand-public-2023/)  
 - [Les émissions de gaz en baisse de 2% entre 2019-2030, alors que l’objectif est de 43 %.](https://reporterre.net/Baisse-des-gaz-a-effet-de-serre-nous-sommes-hors-piste-selon-l-ONU)  
 - [BonPote: 6ème limite planétaire dépassée.](https://bonpote.com/la-6eme-limite-planetaire-est-officiellement-depassee/)  
-- [Blast: l'écologie à la française](https://video.blast-info.fr/w/d4VcHpyqLWAmPnFr1FZRyR)  
-- [Blast: COP28](https://video.blast-info.fr/w/9yX1h5DqG2rJ1YJZHahK8u)  
-- [Mediapart: l'alerte des climatologues](https://www.youtube.com/watch?v=l5yr_ofS444)  
+- [Blast: l'écologie à la française (17min)](https://video.blast-info.fr/w/d4VcHpyqLWAmPnFr1FZRyR)  
+- [Blast: COP28 (22min)](https://video.blast-info.fr/w/9yX1h5DqG2rJ1YJZHahK8u)  
+- [Mediapart: l'alerte des climatologues (50min)](https://www.youtube.com/watch?v=l5yr_ofS444)  
 
 ## 2024
 - [Rapport du Haut Conseil pour le Climat](https://www.hautconseilclimat.fr/publications/rapport-annuel-2024-tenir-le-cap-de-la-decarbonation-proteger-la-population/)  
 - [Il nous reste 6 ans pour agir](https://www.futura-sciences.com/planete/actualites/climatologie-bonne-nouvelle-nous-avons-encore-6-ans-eviter-franchir-points-non-retour-10644/)  
 - [12 mois consécutifs au dessus de 1.5°C](https://www.arretsurimages.net/chroniques/les-enerve-es/climat-1-5c-en-2023-pas-assez-pour-faire-la-une)  
-- [Réchauffement Climatique : Pourquoi C’est Bien Pire Que Prévu](https://video.blast-info.fr/w/8BVhsr4hvn9sc9iNJ4F7SR)  
+- [Réchauffement Climatique : Pourquoi C’est Bien Pire Que Prévu (30min)](https://video.blast-info.fr/w/8BVhsr4hvn9sc9iNJ4F7SR)  
 - [Reporterre: Le Haut Conseil pour le climat met la pression sur le nouveau gouvernement](https://reporterre.net/Le-Haut-Conseil-pour-le-climat-met-la-pression-sur-le-nouveau-gouvernement), [rapport 2024.](https://www.hautconseilclimat.fr/publications/rapport-grand-public-2024/)  
 - [Une septième «limite planétaire» en voie d’être franchie](https://vert.eco/articles/une-septieme-limite-planetaire-en-voie-detre-franchie)  
 - [BonPote: Le monde se dirige vers un réchauffement de +3.1°C](https://bonpote.com/le-monde-se-dirige-vers-un-rechauffement-de-3-1c/)  
@@ -93,6 +93,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [LIMIT: EL NIÑO : ON N’A JAMAIS VU ÇA ! (25min)](https://www.youtube.com/watch?v=MgEumZCpsVQ)
 - [LIMIT: PREPAREZ-VOUS À LA PROCHAINE CANICULE (24min)](https://www.youtube.com/watch?v=my6-AQLo5vs)
 - [Frustration Mag: FOCUS : Après la canicule, quelle révolution ? (avec NICOLAS FRAMONT, 44min)](https://www.youtube.com/watch?v=nuZuRv9cdI4)
+- [Blast: EMMANUEL MACRON : LE PRÉSIDENT PYROMANE (40min)](https://www.youtube.com/watch?v=KWlogw-Ub70)
 
 ## Agir
 
