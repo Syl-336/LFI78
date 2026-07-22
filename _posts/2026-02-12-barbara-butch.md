@@ -16,7 +16,7 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Orient XXI: Projet de loi « Yadan », l’antisémitisme instrumentalisé.](https://orientxxi.info/Projet-de-loi-Yadan-l-antisemitisme-instrumentalise)
 - [AuPoste: Projet de loi Yadan, l’antisémitisme instrumentalisé (1h50)](https://auposte.media/emissions/projet-de-loi-yadan-l-antisemitisme-instrumentalise)
 
-# Perturbation du concert à Grenoble
+## Perturbation du concert à Grenoble
 - [Le Media: DE BARBARA BUTCH À AKIM OMIRI : L'INDIGNATION À GÉOMÉTRIE VARIABLE.](https://www.youtube.com/watch?v=lN2OHTvEypI)
 - [Pourquoi les insoumis grenoblois appellent à déprogrammer un DJ-set de Barbara Butch ?](https://www.lesinrocks.com/musique/pourquoi-les-insoumis-grenoblois-appellent-a-deprogrammer-un-dj-set-de-barbara-butch-696238-21-05-2026/)
 - [La Fabrique du Mensonge: L'AFFAIRE BARBARA BUTCH EST HALLUCINANTE DE MENSONGES...](https://www.youtube.com/watch?v=KXNzBRFcd0Q)
