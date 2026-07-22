@@ -51,6 +51,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Monique Pinçon-Charlot sur OFF-Investigation: « Un État aux mains des plus riches pour les plus riches » (23min)](https://www.youtube.com/watch?v=ru8LCxH7fbY)  
 - [Nicolas Framont sur ELUCID: De Macron au RN, les PARASITES sont prêts à TOUT pour maintenir leurs INTÉRÊTS (1h30)](https://indymotion.fr/w/rS1YnYQ4ZYRhUS4jbuCqnk)  
 - [Nicolas Framont: Luigi Mangione, les bourgeois et le 10 septembre (2h07)](https://www.youtube.com/watch?v=ycy-7PIFiV0)
+- [Sator: L'eau, d'une ressource vitale à un outil de profit et de domination (23min)](https://www.youtube.com/watch?v=s4xqxz3p884)
 - [Comprendre et Agir:](https://www.youtube.com/@ComprendreEtAgir/videos)
   - [Pierre-Yves Longaretti: Le capitalisme va-t-il s'effondrer en 2035 ? (53min)](https://www.youtube.com/watch?v=bDXOQ1hL8po)
   - [Emmanuel PRADOS: Comprendre les phénomènes d’effondrement de sociétés. Quel avenir pour la nôtre ? (45min)](https://www.youtube.com/watch?v=1dgjIeR5DBY)
