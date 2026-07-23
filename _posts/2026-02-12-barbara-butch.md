@@ -17,9 +17,12 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [AuPoste: Projet de loi Yadan, l’antisémitisme instrumentalisé (1h50)](https://auposte.media/emissions/projet-de-loi-yadan-l-antisemitisme-instrumentalise)
 
 ## Perturbation du concert à Grenoble
+
+- [Retour sur l'action Barabara Butch à Grenoble.](https://unrollnow.com/status/2080252832066732344)
 - [Tsedek: Avec une énième polémique instrumentalisant la lutte contre l'antisémitisme, retour sur l'action ayant visé le DJ set de Barbara Butch.](https://piaille.fr/@tsedek/116962328075552394)
 - [Le Media: DE BARBARA BUTCH À AKIM OMIRI : L'INDIGNATION À GÉOMÉTRIE VARIABLE.](https://www.youtube.com/watch?v=lN2OHTvEypI)
 - [Pourquoi les insoumis grenoblois appellent à déprogrammer un DJ-set de Barbara Butch ?](https://www.lesinrocks.com/musique/pourquoi-les-insoumis-grenoblois-appellent-a-deprogrammer-un-dj-set-de-barbara-butch-696238-21-05-2026/)
 - [La Fabrique du Mensonge: L'AFFAIRE BARBARA BUTCH EST HALLUCINANTE DE MENSONGES...](https://www.youtube.com/watch?v=KXNzBRFcd0Q)
 - [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
 - [Contre-Attaque: décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
+- [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
