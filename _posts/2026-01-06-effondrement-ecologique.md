@@ -57,6 +57,8 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
   - [Emmanuel PRADOS: Comprendre les phénomènes d’effondrement de sociétés. Quel avenir pour la nôtre ? (45min)](https://www.youtube.com/watch?v=1dgjIeR5DBY)
   - [Paul GUILLIBERT: Marx avait-il raison sur l'écologie ? (53min)](https://www.youtube.com/watch?v=er_0d3T09cM)
   - [Cédric DURAND: Vers une planification écologique forcée ? (49min)](https://www.youtube.com/watch?v=_kPzoPYxIOE)
+  - [Denis Dupré: Les finances : pompiers des effondrements ? Où placer son argent ? (1h)](https://www.youtube.com/watch?v=7on_mou174E)
+  - [Sophie Dubuisson-Quellier: L'injonction contradictoire de la transition écologique (1h)](https://www.youtube.com/watch?v=ckb8ZmM0hUg)
 
 ## Documentaires
 - [L'homme a mangé la Terre (1h38)](https://peertube.stream/w/jLNTjBPwZFsDqsCTZGqaAi), [sur Arte](https://www.arte.tv/fr/videos/073938-000-A/l-homme-a-mange-la-terre/)  
@@ -104,7 +106,8 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [ARTE: Planter à tout prix - Des arbres pour sauver la planète ? (1h28)](https://www.youtube.com/watch?&v=6EFJc6Tk06E)
 - [BÉTON 🆚 BOIS TERRE PAILLE : La vraie révolution sociale-écologique ! (21min)](https://www.youtube.com/watch?v=NQs6aU-aMSs)  
 - [A bas l'égoïsme - avec Pablo Servigne (12min)](https://www.youtube.com/watch?v=xJKjXQwxiwc)
-- [Les finances : pompiers des effondrements ? Où placer son argent ? — Denis Dupré (1h)](https://www.youtube.com/watch?v=7on_mou174E)
+- [Denis Dupré: Les finances : pompiers des effondrements ? Où placer son argent ? (1h)](https://www.youtube.com/watch?v=7on_mou174E)
+- [Sophie Dubuisson-Quellier: L'injonction contradictoire de la transition écologique (1h)](https://www.youtube.com/watch?v=ckb8ZmM0hUg)
 
 ## Politique
 
