@@ -26,3 +26,4 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
 - [Contre-Attaque: décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
 - [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
+- [Derrière l’affaire Barbara Butch : l’histoire d’un « progressisme » à géométrie variable au PS.](https://www.problematik-media.com/articles/barbara-butch-grenoble-palestine-ps)
