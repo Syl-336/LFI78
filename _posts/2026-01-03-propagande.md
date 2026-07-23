@@ -25,6 +25,7 @@ excerpt: "L'ignorance, c'est la force"
 - [ELUCID](https://elucid.media/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@ElucidMedia) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://indymotion.fr/c/elucid_media/videos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://indymotion.fr/@elucid):
   - [REVUE DE PRESSE - Syndrome de la page 27](https://www.youtube.com/playlist?list=PLP7NM2PkDfTgbN9SXugiA22Zw8W_n9Ojy)
   - [CHRONIQUES DUO](https://www.youtube.com/playlist?list=PLP7NM2PkDfTj2UbmFWdcAmaiKTFnPar-a)
+- [PSYCHOLOGIE ET PROPAGANDE DE GUERRE - avec Benji Schoendorff (51min)](https://www.youtube.com/watch?v=Y-GwXNM6xZU&t=10s)
 
 ## Articles
 - [Blast, tribune du sociologue Didier Éribon: Des nouvelles des nouveaux chiens de garde.](https://www.blast-info.fr/articles/2026/des-nouvelles-des-nouveaux-chiens-de-garde-ndFQOS1DR6mCclVBExRlNg)

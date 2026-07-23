@@ -97,6 +97,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [LIMIT: PREPAREZ-VOUS À LA PROCHAINE CANICULE (24min)](https://www.youtube.com/watch?v=my6-AQLo5vs)
 - [Frustration Mag: FOCUS : Après la canicule, quelle révolution ? (avec NICOLAS FRAMONT, 44min)](https://www.youtube.com/watch?v=nuZuRv9cdI4)
 - [Blast: EMMANUEL MACRON : LE PRÉSIDENT PYROMANE (40min)](https://www.youtube.com/watch?v=KWlogw-Ub70)
+- [Contre-Attaque: Canicule : au mois 6.000 morts en France et 12.500 en Europe](https://contre-attaque.net/2026/07/23/canicule-au-mois-6-000-morts-en-france-et-12-500-en-europe/)
 
 ## Agir
 
