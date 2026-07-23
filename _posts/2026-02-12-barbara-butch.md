@@ -22,3 +22,4 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Pourquoi les insoumis grenoblois appellent à déprogrammer un DJ-set de Barbara Butch ?](https://www.lesinrocks.com/musique/pourquoi-les-insoumis-grenoblois-appellent-a-deprogrammer-un-dj-set-de-barbara-butch-696238-21-05-2026/)
 - [La Fabrique du Mensonge: L'AFFAIRE BARBARA BUTCH EST HALLUCINANTE DE MENSONGES...](https://www.youtube.com/watch?v=KXNzBRFcd0Q)
 - [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
+- [Contre-Attaque: décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)

@@ -102,8 +102,9 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Earth4All, de plusieurs groupes dont le Club de Rome](https://earth4all.life/publications/#deep-dive-papers)  
 - [Arbres aux actions](https://www.racinesderesilience.org/arbre-aux-actions/france)  
 - [ARTE: Planter à tout prix - Des arbres pour sauver la planète ? (1h28)](https://www.youtube.com/watch?&v=6EFJc6Tk06E)
-- [BÉTON 🆚 BOIS TERRE PAILLE : La vraie révolution sociale-écologique !](https://www.youtube.com/watch?v=NQs6aU-aMSs)  
-- [A bas l'égoïsme - avec Pablo Servigne](https://www.youtube.com/watch?v=xJKjXQwxiwc)
+- [BÉTON 🆚 BOIS TERRE PAILLE : La vraie révolution sociale-écologique ! (21min)](https://www.youtube.com/watch?v=NQs6aU-aMSs)  
+- [A bas l'égoïsme - avec Pablo Servigne (12min)](https://www.youtube.com/watch?v=xJKjXQwxiwc)
+- [Les finances : pompiers des effondrements ? Où placer son argent ? — Denis Dupré (1h)](https://www.youtube.com/watch?v=7on_mou174E)
 
 ## Politique
 
