@@ -27,4 +27,5 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Contre-Attaque: décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
 - [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
 - [Derrière l’affaire Barbara Butch : l’histoire d’un « progressisme » à géométrie variable au PS.](https://www.problematik-media.com/articles/barbara-butch-grenoble-palestine-ps)
-- [PDH: EMISSION SPÉCIALE : BARBARA BUTCH - CE QU'IL S'EST VRAIMENT PASSÉ et INSTRUMENTALISATIONS](https://www.youtube.com/watch?v=ZJMfvFnLtvM)
+- [PDH: EMISSION SPÉCIALE : BARBARA BUTCH - CE QU'IL S'EST VRAIMENT PASSÉ et INSTRUMENTALISATIONS (1h20)](https://www.youtube.com/watch?v=ZJMfvFnLtvM)
+- [Barbara Butch et son avocate Audrey Msellati ont reçu l'aide d'une start-up israélienne de vidéo-renseignement pour identifier un maximum de personnes ayant envoyé des messages ou commentaires haineux contre la DJ après la cérémonie des JO.](https://www.reddit.com/r/FranceDigeste/comments/1v4qnah/barbara_butch_et_son_avocate_audrey_msellati_ont/)
