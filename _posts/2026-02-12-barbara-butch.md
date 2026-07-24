@@ -36,3 +36,4 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [La Fabrique du Mensonge: L'AFFAIRE BARBARA BUTCH EST HALLUCINANTE DE MENSONGES... (11min)](https://www.youtube.com/watch?v=KXNzBRFcd0Q)
 - [Derrière l’affaire Barbara Butch : l’histoire d’un « progressisme » à géométrie variable au PS.](https://www.problematik-media.com/articles/barbara-butch-grenoble-palestine-ps)
 - [Barbara Butch et son avocate Audrey Msellati ont reçu l'aide d'une start-up israélienne de vidéo-renseignement pour identifier un maximum de personnes ayant envoyé des messages ou commentaires haineux contre la DJ après la cérémonie des JO.](https://www.reddit.com/r/FranceDigeste/comments/1v4qnah/barbara_butch_et_son_avocate_audrey_msellati_ont/)
+- [Staf Stream: BARBARA BUTCH porte PLAINTE contre NOUS !? (+ on revient sur l'affaire) (48min)](https://www.youtube.com/watch?v=jMppg31M5mU)
