@@ -16,16 +16,21 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Orient XXI: Projet de loi « Yadan », l’antisémitisme instrumentalisé.](https://orientxxi.info/Projet-de-loi-Yadan-l-antisemitisme-instrumentalise)
 - [AuPoste: Projet de loi Yadan, l’antisémitisme instrumentalisé (1h50)](https://auposte.media/emissions/projet-de-loi-yadan-l-antisemitisme-instrumentalise)
 
+## Barbara Butch qui mixe dans la résidence de l'ambassadeur en juin 2025
+- [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
+- [Staf Stream: BARBARA BUTCH : de TEL AVIV à la loi YADAN ! (Sa femme nous traite de menteurs !) (30min)](https://www.youtube.com/watch?v=nBoZHqBpPBQ)
+- [Pour rappel, au même moment, Rima Hassan victime de maltraitance et placée à l’isolement.](https://contre-attaque.net/2025/06/11/rima-hassan-victime-de-maltraitance-et-placee-a-lisolement/)
+
+
 ## Perturbation du concert à Grenoble
 
+- [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
 - [Retour sur l'action Barabara Butch à Grenoble.](https://unrollnow.com/status/2080252832066732344)
 - [Tsedek: Avec une énième polémique instrumentalisant la lutte contre l'antisémitisme, retour sur l'action ayant visé le DJ set de Barbara Butch.](https://piaille.fr/@tsedek/116962328075552394)
-- [Le Media: DE BARBARA BUTCH À AKIM OMIRI : L'INDIGNATION À GÉOMÉTRIE VARIABLE.](https://www.youtube.com/watch?v=lN2OHTvEypI)
-- [Pourquoi les insoumis grenoblois appellent à déprogrammer un DJ-set de Barbara Butch ?](https://www.lesinrocks.com/musique/pourquoi-les-insoumis-grenoblois-appellent-a-deprogrammer-un-dj-set-de-barbara-butch-696238-21-05-2026/)
-- [La Fabrique du Mensonge: L'AFFAIRE BARBARA BUTCH EST HALLUCINANTE DE MENSONGES...](https://www.youtube.com/watch?v=KXNzBRFcd0Q)
-- [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
 - [Contre-Attaque: décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
-- [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
-- [Derrière l’affaire Barbara Butch : l’histoire d’un « progressisme » à géométrie variable au PS.](https://www.problematik-media.com/articles/barbara-butch-grenoble-palestine-ps)
+- [Pourquoi les insoumis grenoblois appellent à déprogrammer un DJ-set de Barbara Butch ?](https://www.lesinrocks.com/musique/pourquoi-les-insoumis-grenoblois-appellent-a-deprogrammer-un-dj-set-de-barbara-butch-696238-21-05-2026/)
+- [Le Media: DE BARBARA BUTCH À AKIM OMIRI : L'INDIGNATION À GÉOMÉTRIE VARIABLE (23min)](https://www.youtube.com/watch?v=lN2OHTvEypI)
 - [PDH: EMISSION SPÉCIALE : BARBARA BUTCH - CE QU'IL S'EST VRAIMENT PASSÉ et INSTRUMENTALISATIONS (1h20)](https://www.youtube.com/watch?v=ZJMfvFnLtvM)
+- [La Fabrique du Mensonge: L'AFFAIRE BARBARA BUTCH EST HALLUCINANTE DE MENSONGES... (11min)](https://www.youtube.com/watch?v=KXNzBRFcd0Q)
+- [Derrière l’affaire Barbara Butch : l’histoire d’un « progressisme » à géométrie variable au PS.](https://www.problematik-media.com/articles/barbara-butch-grenoble-palestine-ps)
 - [Barbara Butch et son avocate Audrey Msellati ont reçu l'aide d'une start-up israélienne de vidéo-renseignement pour identifier un maximum de personnes ayant envoyé des messages ou commentaires haineux contre la DJ après la cérémonie des JO.](https://www.reddit.com/r/FranceDigeste/comments/1v4qnah/barbara_butch_et_son_avocate_audrey_msellati_ont/)
