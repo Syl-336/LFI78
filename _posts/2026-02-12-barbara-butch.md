@@ -16,10 +16,12 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Orient XXI: Projet de loi « Yadan », l’antisémitisme instrumentalisé.](https://orientxxi.info/Projet-de-loi-Yadan-l-antisemitisme-instrumentalise)
 - [AuPoste: Projet de loi Yadan, l’antisémitisme instrumentalisé (1h50)](https://auposte.media/emissions/projet-de-loi-yadan-l-antisemitisme-instrumentalise)
 
-## Barbara Butch qui mixe dans la résidence de l'ambassadeur en juin 2025
+## Barbara Butch qui mixe dans la résidence de l'ambassadeur français à Tel Aviv le 13 juin 2025
 - [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
 - [Staf Stream: BARBARA BUTCH : de TEL AVIV à la loi YADAN ! (Sa femme nous traite de menteurs !) (30min)](https://www.youtube.com/watch?v=nBoZHqBpPBQ)
-- [Pour rappel, au même moment, Rima Hassan victime de maltraitance et placée à l’isolement.](https://contre-attaque.net/2025/06/11/rima-hassan-victime-de-maltraitance-et-placee-a-lisolement/)
+- Pour rappel, au même moment:
+  - [La flottille de la liberté menacée par l’armée israélienne.](https://contre-attaque.net/2025/06/06/la-flottille-de-la-liberte-menacee-par-larmee-israelienne/)
+  - [11 juin: Rima Hassan victime de maltraitance et placée à l’isolement.](https://contre-attaque.net/2025/06/11/rima-hassan-victime-de-maltraitance-et-placee-a-lisolement/)
 
 
 ## Perturbation du concert à Grenoble
