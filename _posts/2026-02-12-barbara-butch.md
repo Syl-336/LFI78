@@ -37,3 +37,12 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [Derrière l’affaire Barbara Butch : l’histoire d’un « progressisme » à géométrie variable au PS.](https://www.problematik-media.com/articles/barbara-butch-grenoble-palestine-ps)
 - [Barbara Butch et son avocate Audrey Msellati ont reçu l'aide d'une start-up israélienne de vidéo-renseignement pour identifier un maximum de personnes ayant envoyé des messages ou commentaires haineux contre la DJ après la cérémonie des JO.](https://www.reddit.com/r/FranceDigeste/comments/1v4qnah/barbara_butch_et_son_avocate_audrey_msellati_ont/)
 - [Staf Stream: BARBARA BUTCH porte PLAINTE contre NOUS !? (+ on revient sur l'affaire) (48min)](https://www.youtube.com/watch?v=jMppg31M5mU)
+- [L’action menée contre le concert de Barbara Butch sert-elle la cause palestinienne ?](https://blogs.mediapart.fr/brahim-metiba/blog/210726/l-action-menee-contre-le-concert-de-barbara-butch-sert-elle-la-cause-palestinienne)
+- [RP: Après le boycott de Barbara Butch, la macronie et le PS ciblent les soutiens de la Palestine.](https://www.revolutionpermanente.fr/Barbara-Butch-boycottee-le-PS-et-la-macronie-lancent-une-offensive-contre-les-soutiens-de-la)
+
+## Propagande médiatique
+
+- [Libération: Entretien en vidéo avec Barbara Butch : «Je subis de l’antisémitisme depuis que je suis gamine».](https://www.liberation.fr/culture/barbara-butch-temoigne-apres-son-concert-interrompu-decouvrez-notre-entretien-en-video-et-en-integralite-20260722_573OROH6B5D77N3ZDECXCBP35Q/)
+- [Le Monde: Antisémitisme : la direction de LFI doit prendre ses responsabilités.](https://www.lemonde.fr/idees/article/2026/07/25/antisemitisme-la-direction-de-lfi-doit-prendre-ses-responsabilites_6732134_3232.html)
+- [Le Parisien: Concert de Barbara Butch interrompu à Grenoble : une enquête ouverte pour « délit d’entrave concertée aux libertés »](https://www.leparisien.fr/culture-loisirs/musique/concert-de-barbara-butch-interrompu-a-grenoble-une-enquete-ouverte-pour-delit-dentrave-concertee-aux-libertes-21-07-2026-EI2BP32JO5BWFDNY22VZ7NV3VI.php)
+- [Le Figaro: «Antisémitisme pur», «cette gauche-là n’est pas la gauche» : la classe politique s’offusque de l’interruption d’un concert de Barbara Butch par des militants pro-palestiniens.](https://www.lefigaro.fr/actualite-france/antisemitisme-pur-cette-gauche-la-n-est-pas-la-gauche-la-classe-politique-s-offusque-de-l-interruption-d-un-concert-de-barbara-butch-par-des-militants-pro-palestiniens-20260720)
