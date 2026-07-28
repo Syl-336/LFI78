@@ -52,3 +52,4 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 ## Memes
 
 - [La caste mediatico-politique quand elle découvre un micro-évènement qui va lui permettre de boucler sur LFI pendant 3 semaines.](https://www.reddit.com/r/actu_memes/comments/1v3dlbs/et_sinon_un_ado_trait%C3%A9_de_sale_bougnoule_et_qui_a/)
+- [valadista: pov : tu vas au concert de Barbara Butch](https://www.tiktok.com/@valadista/video/7667312397404704032)
