@@ -39,6 +39,7 @@ excerpt: Votez Mélenchon !
 
 ## La Gôche
 
+- [L'Opinion: « Si on double le score d’Hidalgo, ce sera un exploit » : comment toute la gauche hors LFI a intégré sa défaite en 2027.](https://www.lopinion.fr/politique/si-on-double-le-score-dhidalgo-ce-sera-un-exploit-comment-toute-la-gauche-hors-lfi-a-integre-sa-defaite-en-2027)
 - [Éthique et tac: Les clowns de la gauche - 4 séquences déjà cultes](https://www.youtube.com/watch?v=AWC1Ge8EFIo)
 - [Blast: 🦏 MOINS CLIVANTE, TOUJOURS NAVRANTE : À QUOI SERT LA "GAUCHE" NON-MÉLENCHONISTE ? (21min)](https://www.youtube.com/watch?v=lwkOjGsz9mE)
 - [Canard Réfractaire: Le BAL DES ESCROCS pour succéder à MACRON ! 🤡 (9min)](https://www.youtube.com/watch?v=zBft1S5D-hM)

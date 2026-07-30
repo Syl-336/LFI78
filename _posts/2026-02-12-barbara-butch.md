@@ -5,6 +5,15 @@ categories: [politique, medias, polemique]
 excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 ---
 
+## L'essentiel
+- [Staf Stream: Barbara Butch mixe a 50km d'un gén*cide (Elle a aucune excuse)](https://www.youtube.com/shorts/AQl0HHC2m0U)
+- Contre-Attaque:
+  - [décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
+  - [en finir avec la Comedia dell’Arte.](https://contre-attaque.net/2026/07/29/barbara-butch-en-finir-avec-la-comedia-dellarte/)
+- [Arrêt sur Images: https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+- [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
+- [Votre indifférence ne sauvera pas la Palestine. Appel signé par plus de 200 artistes et travailleur·euses de la culture.](https://blogs.mediapart.fr/artistes-et-publics-contre-genocide/blog/290726/votre-indifference-ne-sauvera-pas-la-palestine)
+
 ## Soutien à la proposition de loi Yadan
 - [Barbara Butch signe la tribune en soutien à la Loi Yadan.](https://www.lepoint.fr/debats/intellectuels-et-politiques-se-mobilisent-pour-la-loi-contre-lantisemitisme-3DDKJBEA2RC7VACNRXZLV4YBWA/)
 - [Wikipedia: proposition de loi Yadan](https://fr.wikipedia.org/wiki/Proposition_de_loi_Yadan)
@@ -26,10 +35,10 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 
 ## Perturbation du concert à Grenoble
 
-- [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
 - [Retour sur l'action Barabara Butch à Grenoble.](https://unrollnow.com/status/2080252832066732344)
-- [Tsedek: Avec une énième polémique instrumentalisant la lutte contre l'antisémitisme, retour sur l'action ayant visé le DJ set de Barbara Butch.](https://piaille.fr/@tsedek/116962328075552394)
-- [Contre-Attaque: décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
+- Contre-Attaque:
+  - [décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
+  - [en finir avec la Comedia dell’Arte.](https://contre-attaque.net/2026/07/29/barbara-butch-en-finir-avec-la-comedia-dellarte/)
 - [Pourquoi les insoumis grenoblois appellent à déprogrammer un DJ-set de Barbara Butch ?](https://www.lesinrocks.com/musique/pourquoi-les-insoumis-grenoblois-appellent-a-deprogrammer-un-dj-set-de-barbara-butch-696238-21-05-2026/)
 - [Le Media: DE BARBARA BUTCH À AKIM OMIRI : L'INDIGNATION À GÉOMÉTRIE VARIABLE (23min)](https://www.youtube.com/watch?v=lN2OHTvEypI)
 - [PDH: EMISSION SPÉCIALE : BARBARA BUTCH - CE QU'IL S'EST VRAIMENT PASSÉ et INSTRUMENTALISATIONS (1h20)](https://www.youtube.com/watch?v=Fvzz8xMNE_Y)
@@ -41,6 +50,12 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [RP: Après le boycott de Barbara Butch, la macronie et le PS ciblent les soutiens de la Palestine.](https://www.revolutionpermanente.fr/Barbara-Butch-boycottee-le-PS-et-la-macronie-lancent-une-offensive-contre-les-soutiens-de-la)
 - [L'Humanité: Affaire Barbara Butch : est-ce vraiment la liberté d’expression qui est défendue ?](https://www.youtube.com/shorts/l8tbcXM-5P8)
 - [PaduTeam: COMMENT BARBARA BUTCH A DIABOLISÉ MÉLENCHON ? (48min)](https://www.youtube.com/watch?app=desktop&v=Ut2bA9HqoLI)
+- [Arrêt sur Images: https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+
+## Soutiens
+- [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
+- [Votre indifférence ne sauvera pas la Palestine. Appel signé par plus de 200 artistes et travailleur·euses de la culture.](https://blogs.mediapart.fr/artistes-et-publics-contre-genocide/blog/290726/votre-indifference-ne-sauvera-pas-la-palestine)
+- [Tsedek: Avec une énième polémique instrumentalisant la lutte contre l'antisémitisme, retour sur l'action ayant visé le DJ set de Barbara Butch.](https://piaille.fr/@tsedek/116962328075552394)
 
 ## Propagande médiatique
 
