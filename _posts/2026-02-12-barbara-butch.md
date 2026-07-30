@@ -10,7 +10,7 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - Contre-Attaque:
   - [décryptage de la dernière offensive médiatique.](https://contre-attaque.net/2026/07/22/barbara-butch-decryptage-de-la-derniere-offensive-mediatique/)
   - [en finir avec la Comedia dell’Arte.](https://contre-attaque.net/2026/07/29/barbara-butch-en-finir-avec-la-comedia-dellarte/)
-- [Arrêt sur Images: https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+- [Arrêt sur Images: Concert interrompu de Barbara Butch : un emballement médiatique hors norme (1/2)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
 - [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
 - [Votre indifférence ne sauvera pas la Palestine. Appel signé par plus de 200 artistes et travailleur·euses de la culture.](https://blogs.mediapart.fr/artistes-et-publics-contre-genocide/blog/290726/votre-indifference-ne-sauvera-pas-la-palestine)
 
@@ -50,7 +50,7 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [RP: Après le boycott de Barbara Butch, la macronie et le PS ciblent les soutiens de la Palestine.](https://www.revolutionpermanente.fr/Barbara-Butch-boycottee-le-PS-et-la-macronie-lancent-une-offensive-contre-les-soutiens-de-la)
 - [L'Humanité: Affaire Barbara Butch : est-ce vraiment la liberté d’expression qui est défendue ?](https://www.youtube.com/shorts/l8tbcXM-5P8)
 - [PaduTeam: COMMENT BARBARA BUTCH A DIABOLISÉ MÉLENCHON ? (48min)](https://www.youtube.com/watch?app=desktop&v=Ut2bA9HqoLI)
-- [Arrêt sur Images: https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+- [Arrêt sur Images: Concert interrompu de Barbara Butch : un emballement médiatique hors norme (1/2)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
 
 ## Soutiens
 - [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
