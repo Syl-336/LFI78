@@ -19,6 +19,7 @@ excerpt: Un autre Macron est possible.
 - [Contre-Attaque](https://contre-attaque.net/2026/05/14/raphael-glucksmann-candidat-des-riches/), [L'Insoumission: Les documents stratégiques de Glucksmann ou le macronisme 2.0 contre l’arrivée de Mélenchon au pouvoir](https://linsoumission.fr/2026/05/14/glucksmann-contre-melenchon/)
 - [Canard Réfractaire: Le NAUFRAGE GLUCKSMANN en DIRECT ! 😂](https://www.youtube.com/watch?v=U_s4AynX1cw)
 - [Le Monde: Aurélien Rousseau, directeur de campagne de Raphaël Glucksmann, quitte ses fonctions.](https://www.lemonde.fr/politique/article/2026/06/24/aurelien-rousseau-quitte-la-campagne-de-raphael-glucksmann_6713235_823448.html)
+- [Blast: « LES OLIGARQUES NOUS FONT CROIRE À UNE PSEUDO DÉMOCRATIE » (1h40)](https://www.youtube.com/watch?v=5gfdA0ehA54)
 
 ## Memes
 - [A Gauche/Libre Insolent: Montage Macron/Glucksmann.](https://www.youtube.com/watch?v=MiUer9npVKs)  
