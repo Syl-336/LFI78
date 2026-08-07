@@ -50,7 +50,10 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [RP: Après le boycott de Barbara Butch, la macronie et le PS ciblent les soutiens de la Palestine.](https://www.revolutionpermanente.fr/Barbara-Butch-boycottee-le-PS-et-la-macronie-lancent-une-offensive-contre-les-soutiens-de-la)
 - [L'Humanité: Affaire Barbara Butch : est-ce vraiment la liberté d’expression qui est défendue ?](https://www.youtube.com/shorts/l8tbcXM-5P8)
 - [PaduTeam: COMMENT BARBARA BUTCH A DIABOLISÉ MÉLENCHON ? (48min)](https://www.youtube.com/watch?app=desktop&v=Ut2bA9HqoLI)
-- [Arrêt sur Images: Concert interrompu de Barbara Butch : un emballement médiatique hors norme (1/2)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+- Arrêt sur Images:
+  - [Un emballement médiatique hors norme (1/2)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+  - [Les angles morts du récit médiatique (2/3)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-les-angles-morts-du-recit-mediatique-2-3)
+  - [La parole aux personnes présentes (3/3)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-la-parole-aux-personnes-presentes-3-3)
 - [Le Sage REACTS: Et si Mélenchon gagnait grâce... aux attaques ?](https://www.youtube.com/watch?v=ZYqJ74LfD5w)
 
 ## Soutiens
