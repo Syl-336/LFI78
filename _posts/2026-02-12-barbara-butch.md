@@ -51,10 +51,11 @@ excerpt: L'affaire Barbara Butch, et son soutien au sionisme
 - [L'Humanité: Affaire Barbara Butch : est-ce vraiment la liberté d’expression qui est défendue ?](https://www.youtube.com/shorts/l8tbcXM-5P8)
 - [PaduTeam: COMMENT BARBARA BUTCH A DIABOLISÉ MÉLENCHON ? (48min)](https://www.youtube.com/watch?app=desktop&v=Ut2bA9HqoLI)
 - Arrêt sur Images:
-  - [Un emballement médiatique hors norme (1/2)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
+  - [Un emballement médiatique hors norme (1/3)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-un-emballement-mediatique-hors-normes-1-2)
   - [Les angles morts du récit médiatique (2/3)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-les-angles-morts-du-recit-mediatique-2-3)
   - [La parole aux personnes présentes (3/3)](https://www.arretsurimages.net/articles/concert-interrompu-de-barbara-butch-la-parole-aux-personnes-presentes-3-3)
 - [Le Sage REACTS: Et si Mélenchon gagnait grâce... aux attaques ?](https://www.youtube.com/watch?v=ZYqJ74LfD5w)
+- [Canard Réfractaire: L'AFFAIRE BARBARA : LE SCANDALE DE TROP POUR LFI ?](https://www.youtube.com/watch?v=3VVD7mzsruQ)
 
 ## Soutiens
 - [Communiqué unitaire d’une quarantaine d’organisations pro-palestiniennes, trans, féministes, syndicales, anti-impérialistes, antifascistes, handi, politiques en soutien aux militants pour la Palestine.](https://www.reddit.com/r/FranceDigeste/comments/1v3gy8v/barbara_butch_%C3%A0_grenoble_communiqu%C3%A9_unitaire_dune/)
