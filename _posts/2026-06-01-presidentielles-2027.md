@@ -7,6 +7,7 @@ excerpt: Votez Mélenchon !
 
 - [**🐢 Mélenchon 2027 🐢**](https://melenchon2027.fr/)
 - [Inscrivez-vous sur les listes électorales](https://jevoteilsdegagent.fr/)  
+- [Boite à Outils: Faites Mieux !](https://faitesmieux.fr/)
 - [Parrainages](https://lafranceinsoumise.fr/2026/06/22/parrainages-elus-pour-election-presidentielle-2027/)
 - [BadMulch: Pourquoi le peuple a perdu en 2022](https://badmulch.fr/pourquoi-le-peuple-a-perdu-en-2022/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@BadMulch/videos)
   - [Apprendre De 2022: L'Effet Spoiler (37min)](https://www.youtube.com/watch?v=CHq_Lu4OBZk)

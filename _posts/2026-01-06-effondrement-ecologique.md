@@ -99,6 +99,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 - [Blast: EMMANUEL MACRON : LE PRÉSIDENT PYROMANE (40min)](https://www.youtube.com/watch?v=KWlogw-Ub70)
 - [Contre-Attaque: Canicule : au mois 6.000 morts en France et 12.500 en Europe](https://contre-attaque.net/2026/07/23/canicule-au-mois-6-000-morts-en-france-et-12-500-en-europe/)
 - [ELUCID: LES CRISES SE RAPPROCHENT : 2026, l'année du grand basculement (35min)](https://www.youtube.com/watch?v=qYVM4R87Ovo)
+- [ACRIMED: Canicule, sécheresse, incendies : dans les médias, le climat sans la politique.](https://www.acrimed.org/Canicule-secheresse-incendies-dans-les-medias-le)
 
 ## Agir
 
