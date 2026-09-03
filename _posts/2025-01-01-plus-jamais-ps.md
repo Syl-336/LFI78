@@ -19,6 +19,7 @@ excerpt: Recueil des trahisons du PS.
 - [Contre-Attaque: Pourquoi le Parti Socialiste est-il chahuté à chaque 1er Mai ?](https://contre-attaque.net/2026/05/05/pourquoi-le-parti-socialiste-est-il-chahute-a-chaque-1er-mai/)
 - [Jérôme Guedj, la rose des médias, aura été l'invité de BFMTV TF1 sur la même journée (04/05/2026) pour parler de LFI (entre autres)](https://www.reddit.com/r/FranceDigeste/comments/1t463h1/j%C3%A9r%C3%B4me_guedj_la_rose_des_m%C3%A9dias_aura_%C3%A9t%C3%A9_linvit%C3%A9/)
 - [Frustration Magazine: Olivier Faure enfariné lors du 1er mai : et la violence du PS on en parle ?](https://frustrationmagazine.fr/olivier-faure)
+- [Arrêt sur Images: Sur les plateaux de droite, LFI, punching-ball préféré de l'aile droite du PS.](https://www.arretsurimages.net/articles/sur-les-plateaux-de-droite-lfi-punching-ball-prefere-de-laile-droite-du-ps)
 
 ## François Hollande
 

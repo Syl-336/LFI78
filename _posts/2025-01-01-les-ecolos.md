@@ -14,6 +14,7 @@ excerpt: "Mettre fin au capitalisme ? Faudra m'expliquer ce qu'on met à la plac
 - [Glupatate: Championne de France du retournement de veste.](https://www.youtube.com/shorts/sdbiZqhrljs)
 - [Glupatate: Comment se porte la démocratie interne chez Marine Tondelier ? 🫢](https://www.youtube.com/shorts/64pKW877zpI)
 - [A Gauche: The Authoritarian Drift of EELV (Edit)](https://www.youtube.com/watch?v=n0z-3l4-j8E)
+- [Blast: Cher Yannick Jadot - Boxing Day #91](https://www.blast-info.fr/articles/2026/cher-yannick-jadot-boxing-day-91-j82fjjeAS4qWXMyZivTXVA)
 
 ## Capitalisme
 
