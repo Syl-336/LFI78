@@ -62,6 +62,7 @@ excerpt: Comprendre et agir face à l'éffondrement écologique
 
 ## Documentaires
 - [L'homme a mangé la Terre (1h38)](https://peertube.stream/w/jLNTjBPwZFsDqsCTZGqaAi), [sur Arte](https://www.arte.tv/fr/videos/073938-000-A/l-homme-a-mange-la-terre/)  
+- [Fuck la planète (2h15)](https://www.arte.tv/fr/videos/117174-001-A/fuck-la-planete-1-3/)
 - [Les nouveaux chiens de garde (1h37)](https://video.antopie.org/w/a2a5f01f-fdce-4540-93c1-9ae3f7fa5a92)  
 - [Un pays qui se tient sage (1h29)](https://peertube.stream/w/rh2cb3PiqnQLZgFnDFhjtu)  
 - [La Stratégie du Choc (1h16)](https://peertube.stream/w/grhJ9SDdHVtGhKGaSFYJHG)  
