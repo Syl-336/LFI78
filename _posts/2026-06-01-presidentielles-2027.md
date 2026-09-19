@@ -70,3 +70,5 @@ excerpt: Votez Mélenchon !
   - [Comment se porte la démocratie interne chez Marine Tondelier ? 🫢](https://www.youtube.com/shorts/64pKW877zpI)
   - [« Ça suffit ! » Le FLOP MONUMENTAL de Marine Tondelier en plein meeting 🥶🥶🥶](https://www.youtube.com/shorts/XR5k-XpvMoE)
   - [Mélenchon qui imite Tondelier c'est pour me tuer 😂](https://www.youtube.com/shorts/imRWz9Xe0go)
+- Fabien Roussel:
+  - [Fabien contre Roussel - Akim Omiri, La Riposte](https://www.youtube.com/shorts/-h66f1FGoJs)
