@@ -19,7 +19,7 @@
 
 ### Long Formats
 [Contretemps](https://www.contretemps.eu/) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://piaille.fr/@contretemps)  
-[ELUCID](https://elucid.media/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@ElucidMedia) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://indymotion.fr/c/elucid_media/videos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://indymotion.fr/@elucid)  
+[ELUCID](https://elucid.media/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@ElucidMedia) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://indymotion.fr/c/elucid_media/videos) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/elucid_media) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://indymotion.fr/@elucid)  
 [Éthique et tac](https://ethiqueettac.com/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@ethiqueettac) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://indymotion.fr/c/ethique_et_tac/videos) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://indymotion.fr/@ethique_et_tac)  
 [Frustration Magazine](https://frustrationmagazine.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@frustrationmagazine226) [![mastodon]({{ site.baseurl }}/images/icon-mastodon.png)](https://mastodon.social/@frustrationmagazine)  
 [Hacking Social](https://www.hacking-social.com/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@hacking-social)  

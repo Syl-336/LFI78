@@ -1,7 +1,7 @@
 ## La France Insoumise
 
 - [Mélenchon 2027](https://melenchon2027.fr/)
-- [La France Insoumise](https://lafranceinsoumise.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@franceinsoumise-off) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/FranceInsoumise)  
+- [La France Insoumise](https://lafranceinsoumise.fr/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@franceinsoumise-off) [![peertube]({{ site.baseurl }}/images/icon-peertube.png)](https://peertube.stream/a/franceinsoumise) [![telegram]({{ site.baseurl }}/images/icon-telegram.png)](https://t.me/FranceInsoumise)  
 - [La France insoumise c’est quoi ?](https://lafranceinsoumise.fr/lfi-comment-ca-marche/)  
 - [Le programme: L'avenir en commun](https://programme.lafranceinsoumise.fr/)  
 - [Municipales 2026](https://programme.lafranceinsoumise.fr/municipales-2026/)  

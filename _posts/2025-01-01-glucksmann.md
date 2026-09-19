@@ -30,3 +30,4 @@ excerpt: Un autre Macron est possible.
 - [Glucksmann perd un débat face à une photo de Mélenchon](https://www.youtube.com/shorts/FS1Slb1wPZY)
 - [Personne ne veut d'un Macron 2. Même arrogance, même cynisme, mêmes mauvais coups.](https://www.youtube.com/shorts/ZB8zJfuRsdg)
 - [Glucksmann a des PTSD dès qu'on parle de Mélenchon 🤣](https://www.youtube.com/shorts/KLXg2Sg3h9A)
+- [Glucksmann : Le malaise sans fin 😬](https://www.youtube.com/shorts/7vtiajeUK-0)
