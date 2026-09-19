@@ -22,7 +22,7 @@ excerpt: Votez Mélenchon !
 - [Blast/Acrimed: LES MÉDIAS CONTRE MÉLENCHON : 15 ANS À DIABOLISER LA GAUCHE (1h56)](https://www.youtube.com/watch?v=NrWl84bQRPY)
 - [Acrimed: Les Unes de la presse écrite contre Mélenchon et LFI.](https://www.acrimed.org/Les-Unes-de-la-presse-ecrite-contre-Melenchon-et)
 
-# Les extrêmes
+## Les extrêmes
 - [Les macronistes.]({{ site.baseurl }}{% link _posts/2025-01-01-macron.md %})  
 - [Le Rassemblement National.]({{ site.baseurl }}{% link _posts/2025-01-01-rn.md %})
 
