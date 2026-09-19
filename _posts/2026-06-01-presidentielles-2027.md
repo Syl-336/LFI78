@@ -18,6 +18,14 @@ excerpt: Votez Mélenchon !
   - [Comment Votre Identité Peut Nous Faire Perdre Une Élection (1h19)](https://www.youtube.com/watch?v=3C8rBgnETEU)
   - [La gauche n'utilisait que 10% de ses capacités en 2022 (59min)](https://www.youtube.com/watch?v=O6cWgTtP1Nc)
 
+## Propagande anti-Mélenchon
+- [Blast/Acrimed: LES MÉDIAS CONTRE MÉLENCHON : 15 ANS À DIABOLISER LA GAUCHE (1h56)](https://www.youtube.com/watch?v=NrWl84bQRPY)
+- [Acrimed: Les Unes de la presse écrite contre Mélenchon et LFI.](https://www.acrimed.org/Les-Unes-de-la-presse-ecrite-contre-Melenchon-et)
+
+# Les extrêmes
+- [Les macronistes.]({{ site.baseurl }}{% link _posts/2025-01-01-macron.md %})  
+- [Le Rassemblement National.]({{ site.baseurl }}{% link _posts/2025-01-01-rn.md %})
+
 ## Comparaison des programmes de 2022
 
 [Christophe Cassou: “N'oublions jamais que les valeurs de l’extrême droite ne sont pas compatibles avec climat“](https://twitter.com/cassouman40/status/1731083153849155945)  
@@ -30,45 +38,3 @@ excerpt: Votez Mélenchon !
 - [I4CE](https://www.i4ce.org/budget-pour-le-climat-de-fortes-disparites/)  
 - [Européennes 2024](https://reporterre.net/Elections-europeennes-notre-analyse-ecolo-des-programmes)  
 - [BonPote: Pour qui faut-il voter à l’élection présidentielle 2022 ?](https://bonpote.com/pour-qui-faut-il-voter-a-lelection-presidentielle-2022/)
-
-## Propagande anti-Mélenchon
-- [Blast/Acrimed: LES MÉDIAS CONTRE MÉLENCHON : 15 ANS À DIABOLISER LA GAUCHE (1h56)](https://www.youtube.com/watch?v=NrWl84bQRPY)
-- [Acrimed: Les Unes de la presse écrite contre Mélenchon et LFI.](https://www.acrimed.org/Les-Unes-de-la-presse-ecrite-contre-Melenchon-et)
-
-# Les extrêmes
-- [Les macronistes.]({{ site.baseurl }}{% link _posts/2025-01-01-macron.md %})  
-- [Le Rassemblement National.]({{ site.baseurl }}{% link _posts/2025-01-01-rn.md %})  
-
-## La Gôche
-
-- [L'Opinion: « Si on double le score d’Hidalgo, ce sera un exploit » : comment toute la gauche hors LFI a intégré sa défaite en 2027.](https://www.lopinion.fr/politique/si-on-double-le-score-dhidalgo-ce-sera-un-exploit-comment-toute-la-gauche-hors-lfi-a-integre-sa-defaite-en-2027)
-- [Éthique et tac: Les clowns de la gauche - 4 séquences déjà cultes](https://www.youtube.com/watch?v=AWC1Ge8EFIo)
-- [Blast: 🦏 MOINS CLIVANTE, TOUJOURS NAVRANTE : À QUOI SERT LA "GAUCHE" NON-MÉLENCHONISTE ? (21min)](https://www.youtube.com/watch?v=lwkOjGsz9mE)
-- [Canard Réfractaire: Le BAL DES ESCROCS pour succéder à MACRON ! 🤡 (9min)](https://www.youtube.com/watch?v=zBft1S5D-hM)
-- [Canard Réfractaire: MÉLENCHON DÉCHIRE la GAUCHE ? VRAIMENT ?](https://www.youtube.com/watch?v=vAd5FVgzatA)
-- [PRIMAIRE DE LA GAUCHE : LA PLUS GRANDE ANNONCE DE L’ANNÉE ! (46min)](https://www.youtube.com/watch?v=OYgG0a_EiGo)
-- [PaduTeam: LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE (épisode 263) (48min)](https://www.youtube.com/watch?v=AMR2w32OkmU)
-- [**Raphaël Glucksmann:**]({{ site.baseurl }}{% link _posts/2025-01-01-glucksmann.md %})
-  - [Glucksmann perd un débat face à une photo de Mélenchon](https://www.youtube.com/shorts/FS1Slb1wPZY)
-  - [Glucksmann se fait RIDICULISER par les journalistes après son passage sur TF1 😂](https://www.youtube.com/shorts/uGWHKzXto-I)
-  - [Montage Macron/Glucksmann.](https://www.youtube.com/watch?v=MiUer9npVKs)  
-  - [Glucksmann contre le PS.](https://www.youtube.com/watch?v=hORyBjn3j3c)  
-  - [Le naufrage de Glucksmann « Le grand espoir de la gauche » coule avant le départ.](https://www.youtube.com/shorts/oyjVJ90zYM0)
-- [**Olivier Faure:**]({{ site.baseurl }}{% link _posts/2025-01-01-plus-jamais-ps.md %})
-  - [Quand le vent souffle Faure, il emporte aussi les girouettes. 💨](https://www.youtube.com/shorts/06Zo-QIhNfs)
-  - [Olivier Faure INCAPABLE de porter une mesure de gauche ?!](https://www.youtube.com/shorts/QhLAUiBNLEA)
-  - [Présidentielle 2027 : le Parti socialiste a tranché et voté pour une primaire "fermée", un désaveu pour son premier secrétaire Olivier Faure, partisan d’une primaire plus ouverte.](https://www.ladepeche.fr/2026/07/10/presidentielle-2027-le-parti-socialiste-a-tranche-et-vote-pour-une-primaire-fermee-un-desaveu-pour-son-premier-secretaire-olivier-faure-partisan-dune-13462752.php)
-- [**François Ruffin:**]({{ site.baseurl }}{% link _posts/2025-01-01-ruffin.md %})
-  - [Ça ira ! Pour Ruffin, pas de génocide à Gaza.](https://www.youtube.com/shorts/FhX_ronxxAQ)
-  - [Ruffin s'exprime ENFIN sur sa BD !!](https://www.youtube.com/shorts/PHd81ydV_qc)
-- [**Marine Tondelier:**]({{ site.baseurl }}{% link _posts/2025-01-01-les-ecolos.md %})
-  - [L’astuce de Marine Tondelier pour être candidate à la présidentielle même en cas d’échec de la primaire.](https://www.huffingtonpost.fr/politique/article/l-astuce-de-marine-tondelier-pour-etre-candidate-a-la-presidentielle-meme-en-cas-d-echec-de-la-primaire_264660.html)
-  - [Démonstration du naufrage de EELV avec Marine Tondolier - Montage Alexandre Jaafari](https://www.youtube.com/watch?v=poEkfb2g11I)
-  - [La cheffe d'EELV sur le capitalisme.](https://www.youtube.com/watch?v=Fu-DiJX85H0)
-  - [Blocage des prix - Marine Tondelier 2026 vs 2024 vs 2022](https://www.youtube.com/watch?v=Dh4ryo1fj_w)
-  - [Championne de France du retournement de veste.](https://www.youtube.com/shorts/sdbiZqhrljs)
-  - [Comment se porte la démocratie interne chez Marine Tondelier ? 🫢](https://www.youtube.com/shorts/64pKW877zpI)
-  - [« Ça suffit ! » Le FLOP MONUMENTAL de Marine Tondelier en plein meeting 🥶🥶🥶](https://www.youtube.com/shorts/XR5k-XpvMoE)
-  - [Mélenchon qui imite Tondelier c'est pour me tuer 😂](https://www.youtube.com/shorts/imRWz9Xe0go)
-- Fabien Roussel:
-  - [Fabien contre Roussel - Akim Omiri, La Riposte](https://www.youtube.com/shorts/-h66f1FGoJs)
