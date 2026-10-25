@@ -35,3 +35,5 @@ excerpt: Un autre Macron est possible.
 - [Glucksmann a des PTSD dès qu'on parle de Mélenchon 🤣](https://www.youtube.com/shorts/KLXg2Sg3h9A)
 - [Glucksmann : Le malaise sans fin 😬](https://www.youtube.com/shorts/7vtiajeUK-0)
 - [Blast: ANARCHY IN PLACE PUBLIQUE - HEY MAN, GLUCKSMANN](https://www.youtube.com/shorts/qAcgK8dMjXs)
+- [Richard Sabak: 24H avec Glucksmann [Partie 1]](https://www.youtube.com/shorts/RU9gkPZRWWc)
+- [Richard Sabak: 24H avec Glucksmann [Partie 2]](https://www.youtube.com/shorts/D69hHF2Es9w)
