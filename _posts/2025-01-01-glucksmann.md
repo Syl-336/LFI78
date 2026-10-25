@@ -34,3 +34,4 @@ excerpt: Un autre Macron est possible.
 - [Personne ne veut d'un Macron 2. Même arrogance, même cynisme, mêmes mauvais coups.](https://www.youtube.com/shorts/ZB8zJfuRsdg)
 - [Glucksmann a des PTSD dès qu'on parle de Mélenchon 🤣](https://www.youtube.com/shorts/KLXg2Sg3h9A)
 - [Glucksmann : Le malaise sans fin 😬](https://www.youtube.com/shorts/7vtiajeUK-0)
+- [Blast: ANARCHY IN PLACE PUBLIQUE - HEY MAN, GLUCKSMANN](https://www.youtube.com/shorts/qAcgK8dMjXs)
