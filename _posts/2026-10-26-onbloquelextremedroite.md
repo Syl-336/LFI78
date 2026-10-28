@@ -17,7 +17,7 @@ Lula a gagné le 2nd tour le 25 octobre avec 51,79 %, après être arrivé 2e au
 
 ### Chrome
 
-[Extension pour automatiser](https://github.com/Fredersen/block-facho-extension)
+- [Extension bloquer-extreme-droite pour X, TikTok, Instagram et Facebook](https://github.com/bender-md/bloquer-extreme-droite)
 
 ### Firefox
 
