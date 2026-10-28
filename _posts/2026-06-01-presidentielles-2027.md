@@ -7,7 +7,7 @@ excerpt: Votez Mélenchon !
 
 - [**🐢 Mélenchon 2027 🐢**](https://melenchon2027.fr/)
 - [Inscrivez-vous sur les listes électorales](https://jevoteilsdegagent.fr/)
-- [#OnBloqueLExtremeDroite]({{ site.baseurl }}{% link _posts/2026-10-26-onbloquelextremedroite.md %})
+- [#OnBloqueLExtremeDroite]({{ site.baseurl }}{% link _posts/2026-10-26-obled.md %})
 - [Boite à Outils: Faites Mieux !](https://faitesmieux.fr/)
 - [BonPote: Comment les groupes politiques votent-ils à l'Assemblée ? ](https://www.leurs-votes.fr/)
 - [Parrainages](https://lafranceinsoumise.fr/2026/06/22/parrainages-elus-pour-election-presidentielle-2027/)
