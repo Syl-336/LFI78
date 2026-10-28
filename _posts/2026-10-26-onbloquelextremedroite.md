@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #OnBloquelExtremeDroite
+title: On bloque l'extrême droite !
 categories: [politique, extremedroite]
 excerpt: Un mot d'ordre venu du Brésil se répand sur X : ne plus commenter, ne plus partager, bloquer l'extrême droite.
 ---
