@@ -24,6 +24,7 @@ excerpt: Un autre Macron est possible.
 - [Ségolène Royal humilie Glucksmann à la primaire socialiste, il bredouille](https://www.youtube.com/watch?v=0v1uHRT7o8o)
 - [Glucksmann, acculé par son passé, nie en bloc et perd son calme.( Torture et Libéralisme Géorgie)](https://www.youtube.com/watch?v=v89cJSXt_e8)
 - [A Gauche: Glucksmann, acculé par son passé, nie en bloc et perd son calme.( Torture et Libéralisme Géorgie)](https://www.youtube.com/watch?v=v89cJSXt_e8)
+- [Frustration Magazine: Pourquoi Glucksmann n'est pas le bienvenu en manif ?](https://frustrationmagazine.fr/pourquoi-glucksmann-n-est-pas-le-bienvenu-en-manif)
 
 ## Memes
 - [A Gauche/Libre Insolent: Montage Macron/Glucksmann.](https://www.youtube.com/watch?v=MiUer9npVKs)  
