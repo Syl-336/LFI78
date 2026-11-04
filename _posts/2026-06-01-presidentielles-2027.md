@@ -21,6 +21,7 @@ excerpt: Votez Mélenchon !
 
 - [Boite à Outils: Faites Mieux !](https://faitesmieux.fr/)
 - [Arguments pour faire voter LFI.](https://fairevoterlfi.fr/)
+- [LFI: désintox.](https://desintox.lafranceinsoumise.fr/)
 - [BonPote: Comment les groupes politiques votent-ils à l'Assemblée ? ](https://www.leurs-votes.fr/)
 - [#IgnoreLExtremeDroite]({{ site.baseurl }}{% link _posts/2026-10-26-iled.md %})
 
