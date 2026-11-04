@@ -7,11 +7,8 @@ excerpt: Votez Mélenchon !
 
 - [**🐢 Mélenchon 2027 🐢**](https://melenchon2027.fr/)
 - [Inscrivez-vous sur les listes électorales](https://jevoteilsdegagent.fr/)
-- [#IgnoreLExtremeDroite]({{ site.baseurl }}{% link _posts/2026-10-26-iled.md %})
-- [Boite à Outils: Faites Mieux !](https://faitesmieux.fr/)
 - [Parrainages](https://lafranceinsoumise.fr/2026/06/22/parrainages-elus-pour-election-presidentielle-2027/)
 - [Pourquoi Mélenchon va faire 25% et sera au 2nd tour ?](https://blogs.mediapart.fr/eliot-thibault/blog/011126/pourquoi-melenchon-va-faire-25-et-sera-au-2nd-tour)
-- [BonPote: Comment les groupes politiques votent-ils à l'Assemblée ? ](https://www.leurs-votes.fr/)
 - [BadMulch: Pourquoi le peuple a perdu en 2022](https://badmulch.fr/pourquoi-le-peuple-a-perdu-en-2022/) [![youtube]({{ site.baseurl }}/images/icon-youtube.png)](https://www.youtube.com/@BadMulch/videos)
   - [Apprendre De 2022: L'Effet Spoiler (37min)](https://www.youtube.com/watch?v=CHq_Lu4OBZk)
   - [La Fabrique De La Défaite Aux Présidentielles (44min)](https://www.youtube.com/watch?v=0DWePHyYitM)
@@ -19,6 +16,13 @@ excerpt: Votez Mélenchon !
   - [Faut-il Une Primaire À Gauche Pour Gagner ? (54min)](https://www.youtube.com/watch?v=hf5w8_CY_58)
   - [Comment Votre Identité Peut Nous Faire Perdre Une Élection (1h19)](https://www.youtube.com/watch?v=3C8rBgnETEU)
   - [La gauche n'utilisait que 10% de ses capacités en 2022 (59min)](https://www.youtube.com/watch?v=O6cWgTtP1Nc)
+
+## Outils
+
+- [Boite à Outils: Faites Mieux !](https://faitesmieux.fr/)
+- [Arguments pour faire voter LFI.](https://fairevoterlfi.fr/)
+- [BonPote: Comment les groupes politiques votent-ils à l'Assemblée ? ](https://www.leurs-votes.fr/)
+- [#IgnoreLExtremeDroite]({{ site.baseurl }}{% link _posts/2026-10-26-iled.md %})
 
 ## Propagande anti-Mélenchon
 - [Blast/Acrimed: LES MÉDIAS CONTRE MÉLENCHON : 15 ANS À DIABOLISER LA GAUCHE (1h56)](https://www.youtube.com/watch?v=NrWl84bQRPY)
