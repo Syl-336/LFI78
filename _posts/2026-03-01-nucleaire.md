@@ -67,3 +67,4 @@ Il est temps de détruire le mirage technologique entretenu par les lobbies pour
 [^5]: [Contre-Attaque: Nucléaire : l’Atlantique souillé par des déchets](https://contre-attaque.net/2026/07/13/nucleaire-latlantique-souille-par-des-dechets/)
 [^6]: [Jancovici: "Il y a un risque que les importations de pétrôle en Europe soient divisées par 10 d'ici 2050" (9min)](https://indymotion.fr/w/a5iyPwXobAUwY1EZ4MnFDB)
 [^7]: [Olivier Hamant: "On va passer le pic de cuivre en 2040" (9min)](https://indymotion.fr/w/4UA9mEPNybXG482qPcT7FL)
+[^8]: [Combien de centrales le programme de Mélenchon prévoit de fermer pendant le mandat ? Zéro.](https://x.com/BLIKmedia/status/2119490134206755061)
