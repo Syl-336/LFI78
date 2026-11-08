@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Il faut congeler la dette
-categories: [politique, polemique]
+categories: [politique, economie, polemique]
 excerpt: La France Insoumise propose de « congeler » la part de la dette publique française et européenne détenue par la BCE. 
 ---
 
@@ -26,3 +26,4 @@ Enfin, les partisans de la mesure soulignent que d’autres règles européennes
 - [Mediapart: Dette, déficit : There is no alternative ? (1h12)](https://www.youtube.com/watch?v=4ho89tb6sic)
 - [Discours de Jean-Luc Mélenchon à la Braderie de Lille: Explication sur la dette.](https://www.youtube.com/live/mcI40Nu7k94?t=2021)
 - [Dette publique et tentation de la rigueur : analyse au scalpel de l'économiste Gaël Giraud (1h29)](https://www.youtube.com/watch?v=6LTgHPjMQEE)
+- [Blast: POURQUOI DEVRAIT-ON PAYER UNE DETTE ILLÉGITIME ? avec l’économiste Éric Toussaint (1h38)](https://www.youtube.com/watch?v=Gp-iwyisVOQ)
