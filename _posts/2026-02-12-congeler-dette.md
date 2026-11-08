@@ -25,4 +25,4 @@ Enfin, les partisans de la mesure soulignent que d’autres règles européennes
 - [PaduTeam: MÉLENCHON VEUT BRULER LA DETTE 😱 (1h09)](https://www.youtube.com/watch?v=uIW0AiIBeM8)
 - [Mediapart: Dette, déficit : There is no alternative ? (1h12)](https://www.youtube.com/watch?v=4ho89tb6sic)
 - [Discours de Jean-Luc Mélenchon à la Braderie de Lille: Explication sur la dette.](https://www.youtube.com/live/mcI40Nu7k94?t=2021)
-- [Dette publique et tentation de la rigueur : analyse au scalpel de l'économiste Gaël Giraud](https://www.youtube.com/watch?v=6LTgHPjMQEE)
+- [Dette publique et tentation de la rigueur : analyse au scalpel de l'économiste Gaël Giraud (1h29)](https://www.youtube.com/watch?v=6LTgHPjMQEE)
