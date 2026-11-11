@@ -38,3 +38,4 @@ excerpt: Un autre Macron est possible.
 - [Blast: ANARCHY IN PLACE PUBLIQUE - HEY MAN, GLUCKSMANN](https://www.youtube.com/shorts/qAcgK8dMjXs)
 - [Richard Sabak: 24H avec Glucksmann [Partie 1]](https://www.youtube.com/shorts/RU9gkPZRWWc)
 - [Richard Sabak: 24H avec Glucksmann [Partie 2]](https://www.youtube.com/shorts/D69hHF2Es9w)
+- ["Je leur p*** dessus", le pire de Raphaël Glucksmann](https://www.youtube.com/watch?v=fUSOColpdFU)

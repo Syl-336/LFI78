@@ -6,6 +6,7 @@ excerpt: Votez Mélenchon !
 ---
 
 - [**🐢 Mélenchon 2027 🐢**](https://melenchon2027.fr/)
+- [**Le programme**](https://melenchon2027.fr/programme/livre/)
 - [Inscrivez-vous sur les listes électorales](https://jevoteilsdegagent.fr/)
 - [Parrainages](https://lafranceinsoumise.fr/2026/06/22/parrainages-elus-pour-election-presidentielle-2027/)
 - [Pourquoi Mélenchon va faire 25% et sera au 2nd tour ?](https://blogs.mediapart.fr/eliot-thibault/blog/011126/pourquoi-melenchon-va-faire-25-et-sera-au-2nd-tour)
